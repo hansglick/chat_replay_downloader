@@ -1,0 +1,2945 @@
+{
+    "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome": {
+        "errors": 0,
+        "messages": [
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "bib",
+                "author_id": "UCZQdbVQJfp2_Gv1Xts6n4JA",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Bonne annee Princesse Zola",
+                "time_in_seconds": 1133,
+                "time_text": "18:53",
+                "timestamp": 1610281551419741,
+                "timestamp_str": "2021-01-10 13:25:51",
+                "url": "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1133107
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "bib",
+                "author_id": "UCZQdbVQJfp2_Gv1Xts6n4JA",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Bonne annee Princesse Zola",
+                "ticker_duration": 600,
+                "time_in_seconds": 1133,
+                "time_text": "18:53",
+                "timestamp": 1610281551419741,
+                "timestamp_str": "2021-01-10 13:25:51",
+                "url": "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1133107
+            },
+            {
+                "author": "Fatou",
+                "author_id": "UCiKkFCeQC8kr2dOpn6SMWzQ",
+                "badges": "Member (6 months)",
+                "message": "Welcome to Brokezi & Pickme Blinders!",
+                "time_in_seconds": 5626,
+                "time_text": "1:33:46",
+                "timestamp": 1610286044845780,
+                "timestamp_str": "2021-01-10 14:40:44",
+                "url": "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome",
+                "video_offset_time_msec": 5626744
+            },
+            {
+                "author": "Fatou",
+                "author_id": "UCiKkFCeQC8kr2dOpn6SMWzQ",
+                "badges": "Member (6 months)",
+                "body_color": 4279213400,
+                "message": "Welcome to Brokezi & Pickme Blinders!",
+                "ticker_duration": 300,
+                "time_in_seconds": 5626,
+                "time_text": "1:33:46",
+                "timestamp": 1610286044845780,
+                "timestamp_str": "2021-01-10 14:40:44",
+                "url": "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome",
+                "video_offset_time_msec": 5626744
+            }
+        ],
+        "resume": {
+            "biggest_donation": 20.0,
+            "biggest_donator": "bib",
+            "donations_n": 2,
+            "donations_total": 40.0,
+            "duration_seconds": 4493,
+            "duration_str": "1:14:53",
+            "end_str": "2021-01-10 14:40:44",
+            "end_unix": 1610286044,
+            "number_of_unknown_donations": 0,
+            "start_str": "2021-01-10 13:25:51",
+            "start_unix": 1610281551,
+            "unknown_youtube_currencies": []
+        },
+        "url": "https://www.youtube.com/watch?v=AJr1Cyp3vGQ&ab_channel=ZolaHome"
+    },
+    "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome": {
+        "errors": 0,
+        "messages": [
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Carine",
+                "author_id": "UCu9miPk5los4dDRpkHw5nOQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "pour ton th\u00e9 du dimanche \ud83d\udc9c\ud83d\udc9c bonjour",
+                "time_in_seconds": 74,
+                "time_text": "1:14",
+                "timestamp": 1607257249282741,
+                "timestamp_str": "2020-12-06 13:20:49",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 74561
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Carine",
+                "author_id": "UCu9miPk5los4dDRpkHw5nOQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "pour ton th\u00e9 du dimanche \ud83d\udc9c\ud83d\udc9c bonjour",
+                "ticker_duration": 300,
+                "time_in_seconds": 74,
+                "time_text": "1:14",
+                "timestamp": 1607257249282741,
+                "timestamp_str": "2020-12-06 13:20:49",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 74561
+            },
+            {
+                "amount": "CHF\u00a03.00",
+                "amount_currency": "CHF",
+                "amount_euros": 2.8050490883590466,
+                "amount_value": 3.0,
+                "author": "L\u00e9o",
+                "author_id": "UCm86Gk2XsK42Dx_h2giNDNg",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "message": null,
+                "time_in_seconds": 365,
+                "time_text": "6:05",
+                "timestamp": 1607257540356151,
+                "timestamp_str": "2020-12-06 13:25:40",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 365694
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Une belle ann\u00e9e avec toi encore Zola m\u00eame si nos petites conversations aux Events m'ont manqu\u00e9 \ud83d\udc8e",
+                "time_in_seconds": 378,
+                "time_text": "6:18",
+                "timestamp": 1607257552960044,
+                "timestamp_str": "2020-12-06 13:25:52",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 378280
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Une belle ann\u00e9e avec toi encore Zola m\u00eame si nos petites conversations aux Events m'ont manqu\u00e9 \ud83d\udc8e",
+                "ticker_duration": 120,
+                "time_in_seconds": 378,
+                "time_text": "6:18",
+                "timestamp": 1607257552960044,
+                "timestamp_str": "2020-12-06 13:25:52",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 378280
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "didi",
+                "author_id": "UC2IAUt6tcLWuKE86awHMe8A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola, tu es une source d'inspiration, \u00e7a ne m'\u00e9tonne pas que tu r\u00e9ussisse et te souhaite *1000 pour les ann\u00e9es \u00e0 venir. tu donnes envie de level UP \ud83d\ude0a",
+                "time_in_seconds": 563,
+                "time_text": "9:23",
+                "timestamp": 1607257737862064,
+                "timestamp_str": "2020-12-06 13:28:57",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 563212
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "didi",
+                "author_id": "UC2IAUt6tcLWuKE86awHMe8A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola, tu es une source d'inspiration, \u00e7a ne m'\u00e9tonne pas que tu r\u00e9ussisse et te souhaite *1000 pour les ann\u00e9es \u00e0 venir. tu donnes envie de level UP \ud83d\ude0a",
+                "ticker_duration": 120,
+                "time_in_seconds": 563,
+                "time_text": "9:23",
+                "timestamp": 1607257737862064,
+                "timestamp_str": "2020-12-06 13:28:57",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 563212
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je n'avais moi-m\u00eame pas pari\u00e9 sur moi mdr mais l\u00e0 \ud83d\udc8e\ud83e\udd42 je suis plus fi\u00e8re que jamais et tu y es pour beaucoup !",
+                "time_in_seconds": 704,
+                "time_text": "11:44",
+                "timestamp": 1607257878809224,
+                "timestamp_str": "2020-12-06 13:31:18",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 704177
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je n'avais moi-m\u00eame pas pari\u00e9 sur moi mdr mais l\u00e0 \ud83d\udc8e\ud83e\udd42 je suis plus fi\u00e8re que jamais et tu y es pour beaucoup !",
+                "ticker_duration": 120,
+                "time_in_seconds": 704,
+                "time_text": "11:44",
+                "timestamp": 1607257878809224,
+                "timestamp_str": "2020-12-06 13:31:18",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 704177
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Oumou",
+                "author_id": "UCtDbutF6XLm9P6dsnTWolxg",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci Zola \ud83e\udd70\ud83d\udc9c",
+                "time_in_seconds": 736,
+                "time_text": "12:16",
+                "timestamp": 1607257911558759,
+                "timestamp_str": "2020-12-06 13:31:51",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 736931
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Oumou",
+                "author_id": "UCtDbutF6XLm9P6dsnTWolxg",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci Zola \ud83e\udd70\ud83d\udc9c",
+                "ticker_duration": 300,
+                "time_in_seconds": 736,
+                "time_text": "12:16",
+                "timestamp": 1607257911558759,
+                "timestamp_str": "2020-12-06 13:31:51",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 736931
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Yur well",
+                "author_id": "UCu5pUUuJVLLe5VZq8Nl1mVQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\u2764\ud83e\udde1\u2764 On aurait jamais pari\u00e9 sur moi mais j'ai d\u00e9cid\u00e9 de parier sur moi-m\u00eame! Merciiii Zola pour les level-up Vibees",
+                "time_in_seconds": 791,
+                "time_text": "13:11",
+                "timestamp": 1607257966119766,
+                "timestamp_str": "2020-12-06 13:32:46",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 791445
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Yur well",
+                "author_id": "UCu5pUUuJVLLe5VZq8Nl1mVQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\u2764\ud83e\udde1\u2764 On aurait jamais pari\u00e9 sur moi mais j'ai d\u00e9cid\u00e9 de parier sur moi-m\u00eame! Merciiii Zola pour les level-up Vibees",
+                "ticker_duration": 120,
+                "time_in_seconds": 791,
+                "time_text": "13:11",
+                "timestamp": 1607257966119766,
+                "timestamp_str": "2020-12-06 13:32:46",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 791445
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Clarmelle Mnk",
+                "author_id": "UCZ0_nM-_oWeyJ5q1__uN8Jw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "C\u2019est une ann\u00e9e terrible dans l\u2019ensemble mais aussi cette ann\u00e9e o\u00f9 j\u2019ai le plus et mieux appris en mati\u00e8re de capucharlotisme \u2764\ufe0f \ud83e\udd42so much love Zola you deserve",
+                "time_in_seconds": 974,
+                "time_text": "16:14",
+                "timestamp": 1607258152033832,
+                "timestamp_str": "2020-12-06 13:35:52",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 974380
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Clarmelle Mnk",
+                "author_id": "UCZ0_nM-_oWeyJ5q1__uN8Jw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "C\u2019est une ann\u00e9e terrible dans l\u2019ensemble mais aussi cette ann\u00e9e o\u00f9 j\u2019ai le plus et mieux appris en mati\u00e8re de capucharlotisme \u2764\ufe0f \ud83e\udd42so much love Zola you deserve",
+                "ticker_duration": 300,
+                "time_in_seconds": 974,
+                "time_text": "16:14",
+                "timestamp": 1607258152033832,
+                "timestamp_str": "2020-12-06 13:35:52",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 974380
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Marie Olivia",
+                "author_id": "UCeoZWw6jOzUfltuDNNEDlKw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 1048,
+                "time_text": "17:28",
+                "timestamp": 1607258226268639,
+                "timestamp_str": "2020-12-06 13:37:06",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1048561
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Marie Olivia",
+                "author_id": "UCeoZWw6jOzUfltuDNNEDlKw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 1048,
+                "time_text": "17:28",
+                "timestamp": 1607258226268639,
+                "timestamp_str": "2020-12-06 13:37:06",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1048561
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "3\u00e8me don pour la Zoivance. Vous m'avez fait r\u00eaver vous aussi !!! Continuez \u00e0 level up, gardez vos bouches piquantes, travaillez vous aussi vos cuisses pour pouvoir les garder bien serr\u00e9es \ud83d\ude18",
+                "time_in_seconds": 1490,
+                "time_text": "24:50",
+                "timestamp": 1607258668487439,
+                "timestamp_str": "2020-12-06 13:44:28",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1490789
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Namande O",
+                "author_id": "UCJEXpHez0vMz-apXJ15qAvQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "3\u00e8me don pour la Zoivance. Vous m'avez fait r\u00eaver vous aussi !!! Continuez \u00e0 level up, gardez vos bouches piquantes, travaillez vous aussi vos cuisses pour pouvoir les garder bien serr\u00e9es \ud83d\ude18",
+                "ticker_duration": 300,
+                "time_in_seconds": 1490,
+                "time_text": "24:50",
+                "timestamp": 1607258668487439,
+                "timestamp_str": "2020-12-06 13:44:28",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1490789
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "Namiko",
+                "author_id": "UCV3EJt3tOs8VuXsiiFVUhaQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola d'avoir rendu cette ann\u00e9e plus douce alors que le monde exterieur etait en feu \ud83d\udc9c. Merci \ud83d\ude4f",
+                "time_in_seconds": 1642,
+                "time_text": "27:22",
+                "timestamp": 1607258819860709,
+                "timestamp_str": "2020-12-06 13:46:59",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1642120
+            },
+            {
+                "amount": "\u20ac7.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 7.0,
+                "amount_value": 7.0,
+                "author": "Namiko",
+                "author_id": "UCV3EJt3tOs8VuXsiiFVUhaQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola d'avoir rendu cette ann\u00e9e plus douce alors que le monde exterieur etait en feu \ud83d\udc9c. Merci \ud83d\ude4f",
+                "ticker_duration": 120,
+                "time_in_seconds": 1642,
+                "time_text": "27:22",
+                "timestamp": 1607258819860709,
+                "timestamp_str": "2020-12-06 13:46:59",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1642120
+            },
+            {
+                "amount": "\u20ac4.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 4.49,
+                "amount_value": 4.49,
+                "author": "Amy med",
+                "author_id": "UCQAP8WK65_vufHdSwGG5ywQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 1904,
+                "time_text": "31:44",
+                "timestamp": 1607259082653971,
+                "timestamp_str": "2020-12-06 13:51:22",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1904985
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Alexandra Cartiena",
+                "author_id": "UC1SQAe7cizkm8GGiSrY92rw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "T la meilleure ! Tu me donnes beaucoup de force honn\u00eatement ! dis moi simple curiosit\u00e9 lol tu es de quel signe astrologique ? je viens de parier haha",
+                "time_in_seconds": 2195,
+                "time_text": "36:35",
+                "timestamp": 1607259373421835,
+                "timestamp_str": "2020-12-06 13:56:13",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2195680
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Alexandra Cartiena",
+                "author_id": "UC1SQAe7cizkm8GGiSrY92rw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "T la meilleure ! Tu me donnes beaucoup de force honn\u00eatement ! dis moi simple curiosit\u00e9 lol tu es de quel signe astrologique ? je viens de parier haha",
+                "ticker_duration": 300,
+                "time_in_seconds": 2195,
+                "time_text": "36:35",
+                "timestamp": 1607259373421835,
+                "timestamp_str": "2020-12-06 13:56:13",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2195680
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Boubacar",
+                "author_id": "UCRkkHqenZumD0xLl6HKOzzA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola que penses-tu des sagittaires ascendant cancer ?",
+                "time_in_seconds": 2348,
+                "time_text": "39:08",
+                "timestamp": 1607259526078267,
+                "timestamp_str": "2020-12-06 13:58:46",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2348407
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Boubacar",
+                "author_id": "UCRkkHqenZumD0xLl6HKOzzA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola que penses-tu des sagittaires ascendant cancer ?",
+                "ticker_duration": 120,
+                "time_in_seconds": 2348,
+                "time_text": "39:08",
+                "timestamp": 1607259526078267,
+                "timestamp_str": "2020-12-06 13:58:46",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2348407
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Ghislaine Kls",
+                "author_id": "UCaW8xXcVHftsSRG-TTQfKlQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola, pr tellement de choses ! Gr\u00e2ce \u00e0 toi j\u2019ai cess\u00e9 d\u2019\u00eatre la pick me, mm de ms propres amies ! J\u2019suis devenue femme vierge sage",
+                "time_in_seconds": 2501,
+                "time_text": "41:41",
+                "timestamp": 1607259679037385,
+                "timestamp_str": "2020-12-06 14:01:19",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2501314
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Ghislaine Kls",
+                "author_id": "UCaW8xXcVHftsSRG-TTQfKlQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola, pr tellement de choses ! Gr\u00e2ce \u00e0 toi j\u2019ai cess\u00e9 d\u2019\u00eatre la pick me, mm de ms propres amies ! J\u2019suis devenue femme vierge sage",
+                "ticker_duration": 120,
+                "time_in_seconds": 2501,
+                "time_text": "41:41",
+                "timestamp": 1607259679037385,
+                "timestamp_str": "2020-12-06 14:01:19",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2501314
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Mode Off",
+                "author_id": "UCVSKkG9bggbzcVb2GN02uhQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Que du love merci Zola",
+                "time_in_seconds": 2632,
+                "time_text": "43:52",
+                "timestamp": 1607259810183105,
+                "timestamp_str": "2020-12-06 14:03:30",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2632379
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Mode Off",
+                "author_id": "UCVSKkG9bggbzcVb2GN02uhQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Que du love merci Zola",
+                "ticker_duration": 300,
+                "time_in_seconds": 2632,
+                "time_text": "43:52",
+                "timestamp": 1607259810183105,
+                "timestamp_str": "2020-12-06 14:03:30",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2632379
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "bib",
+                "author_id": "UCZQdbVQJfp2_Gv1Xts6n4JA",
+                "body_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 2727,
+                "time_text": "45:27",
+                "timestamp": 1607259905426423,
+                "timestamp_str": "2020-12-06 14:05:05",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2727684
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "bib",
+                "author_id": "UCZQdbVQJfp2_Gv1Xts6n4JA",
+                "body_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 600,
+                "time_in_seconds": 2727,
+                "time_text": "45:27",
+                "timestamp": 1607259905426423,
+                "timestamp_str": "2020-12-06 14:05:05",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2727684
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Kiitou",
+                "author_id": "UCOf5DlwkMFh6QiHl9Wnw89A",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci Zola et aux Capu. Si vous saviez ce que j'ai ressenti la 1er fois que j'ai rencontr\u00e9 Zola puis pris mon courage pour venir aux Capuchalottes en vrai dans un H\u00f4tel 4\u2b50 j'ai su ou \u00e9tais ma place.",
+                "time_in_seconds": 3046,
+                "time_text": "50:46",
+                "timestamp": 1607260224919453,
+                "timestamp_str": "2020-12-06 14:10:24",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 3046856
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Kiitou",
+                "author_id": "UCOf5DlwkMFh6QiHl9Wnw89A",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci Zola et aux Capu. Si vous saviez ce que j'ai ressenti la 1er fois que j'ai rencontr\u00e9 Zola puis pris mon courage pour venir aux Capuchalottes en vrai dans un H\u00f4tel 4\u2b50 j'ai su ou \u00e9tais ma place.",
+                "ticker_duration": 300,
+                "time_in_seconds": 3046,
+                "time_text": "50:46",
+                "timestamp": 1607260224919453,
+                "timestamp_str": "2020-12-06 14:10:24",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 3046856
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Mariama Ndiaye",
+                "author_id": "UCMhxaLAOQvmyf1PRGu9S7og",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola pour tout ce que tu fais \ud83d\ude4f\ud83c\udffe\ud83d\udc9c Je t\u2019ai d\u00e9couvert gr\u00e2ce \u00e0 une amie et je la remercie \ud83d\ude18 Tes lives me permettent \u00e0 LEVEL-UP",
+                "time_in_seconds": 4222,
+                "time_text": "1:10:22",
+                "timestamp": 1607261400535396,
+                "timestamp_str": "2020-12-06 14:30:00",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4222838
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Mariama Ndiaye",
+                "author_id": "UCMhxaLAOQvmyf1PRGu9S7og",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci Zola pour tout ce que tu fais \ud83d\ude4f\ud83c\udffe\ud83d\udc9c Je t\u2019ai d\u00e9couvert gr\u00e2ce \u00e0 une amie et je la remercie \ud83d\ude18 Tes lives me permettent \u00e0 LEVEL-UP",
+                "ticker_duration": 120,
+                "time_in_seconds": 4222,
+                "time_text": "1:10:22",
+                "timestamp": 1607261400535396,
+                "timestamp_str": "2020-12-06 14:30:00",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4222838
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "FCT one girl like you",
+                "author_id": "UCB9zB1nbdZVVyCxt4GZMstA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 4304,
+                "time_text": "1:11:44",
+                "timestamp": 1607261482325808,
+                "timestamp_str": "2020-12-06 14:31:22",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4304660
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "FCT one girl like you",
+                "author_id": "UCB9zB1nbdZVVyCxt4GZMstA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 4304,
+                "time_text": "1:11:44",
+                "timestamp": 1607261482325808,
+                "timestamp_str": "2020-12-06 14:31:22",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4304660
+            },
+            {
+                "author": "Victoria A.",
+                "author_id": "UClQZMos8TFBhaIBNn2zlhYA",
+                "badges": "New member",
+                "message": "Welcome to \ud83c\udf5eLa Brioche!",
+                "time_in_seconds": 5360,
+                "time_text": "1:29:20",
+                "timestamp": 1607262539032510,
+                "timestamp_str": "2020-12-06 14:48:59",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 5360838
+            },
+            {
+                "author": "Victoria A.",
+                "author_id": "UClQZMos8TFBhaIBNn2zlhYA",
+                "badges": "New member",
+                "body_color": 4279213400,
+                "message": "Welcome to \ud83c\udf5eLa Brioche!",
+                "ticker_duration": 300,
+                "time_in_seconds": 5360,
+                "time_text": "1:29:20",
+                "timestamp": 1607262539032510,
+                "timestamp_str": "2020-12-06 14:48:59",
+                "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome",
+                "video_offset_time_msec": 5360838
+            }
+        ],
+        "resume": {
+            "biggest_donation": 20.0,
+            "biggest_donator": "bib",
+            "donations_n": 38,
+            "donations_total": 307.1750490883591,
+            "duration_seconds": 5289,
+            "duration_str": "1:28:09",
+            "end_str": "2020-12-06 14:48:59",
+            "end_unix": 1607262539,
+            "number_of_unknown_donations": 0,
+            "start_str": "2020-12-06 13:20:49",
+            "start_unix": 1607257249,
+            "unknown_youtube_currencies": []
+        },
+        "url": "https://www.youtube.com/watch?v=KHSlJs8iUDs&ab_channel=ZolaHome"
+    },
+    "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome": {
+        "errors": 0,
+        "messages": [
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Pad Padawan",
+                "author_id": "UCgi1cUm1Di31cyTLRbFYZFw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 190,
+                "time_text": "3:10",
+                "timestamp": 1575670135021322,
+                "timestamp_str": "2019-12-06 23:08:55",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 190808
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Pad Padawan",
+                "author_id": "UCgi1cUm1Di31cyTLRbFYZFw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 300,
+                "time_in_seconds": 190,
+                "time_text": "3:10",
+                "timestamp": 1575670135021322,
+                "timestamp_str": "2019-12-06 23:08:55",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 190808
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Taeni",
+                "author_id": "UC4ZVV3HlEBAqVlI91gLbygA",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci \u00e0 la Zoivance, Zola et son \u00e9quipe de me motiver \u00e0 level up depuis bient\u00f4t 2 ans :).",
+                "time_in_seconds": 472,
+                "time_text": "7:52",
+                "timestamp": 1575670416930888,
+                "timestamp_str": "2019-12-06 23:13:36",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 472772
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Taeni",
+                "author_id": "UC4ZVV3HlEBAqVlI91gLbygA",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Merci \u00e0 la Zoivance, Zola et son \u00e9quipe de me motiver \u00e0 level up depuis bient\u00f4t 2 ans :).",
+                "ticker_duration": 300,
+                "time_in_seconds": 472,
+                "time_text": "7:52",
+                "timestamp": 1575670416930888,
+                "timestamp_str": "2019-12-06 23:13:36",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 472772
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Fleur De Vie",
+                "author_id": "UCAnY-Rfi2_DfdKUdO9EcGog",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "1er don hihiii je vais level up !!!",
+                "time_in_seconds": 534,
+                "time_text": "8:54",
+                "timestamp": 1575670478444056,
+                "timestamp_str": "2019-12-06 23:14:38",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 534237
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "Codou Coco",
+                "author_id": "UCdhuQlwrrmuATClCQtWgzbw",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 637,
+                "time_text": "10:37",
+                "timestamp": 1575670581704734,
+                "timestamp_str": "2019-12-06 23:16:21",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 637559
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "Codou Coco",
+                "author_id": "UCdhuQlwrrmuATClCQtWgzbw",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 600,
+                "time_in_seconds": 637,
+                "time_text": "10:37",
+                "timestamp": 1575670581704734,
+                "timestamp_str": "2019-12-06 23:16:21",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 637559
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Gee E",
+                "author_id": "UC0b2EAxyfz2miaB9nrMA8ag",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Je viens de secure 2 jobs, dont un CDI \u00e9tudiant \ud83d\ude4c\ud83c\udffe On fait des dons parce qu'on en a fini d'\u00eatre broke en 2020 \ud83d\ude02\ud83d\ude02",
+                "time_in_seconds": 719,
+                "time_text": "11:59",
+                "timestamp": 1575670663588898,
+                "timestamp_str": "2019-12-06 23:17:43",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 719444
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Gee E",
+                "author_id": "UC0b2EAxyfz2miaB9nrMA8ag",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Je viens de secure 2 jobs, dont un CDI \u00e9tudiant \ud83d\ude4c\ud83c\udffe On fait des dons parce qu'on en a fini d'\u00eatre broke en 2020 \ud83d\ude02\ud83d\ude02",
+                "ticker_duration": 300,
+                "time_in_seconds": 719,
+                "time_text": "11:59",
+                "timestamp": 1575670663588898,
+                "timestamp_str": "2019-12-06 23:17:43",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 719444
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "ahmed TRAORE",
+                "author_id": "UCtCVQKIs-yLLckCPUTWA0Qw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Ben&jerry\u2019s et Zola pour bien terminer ma soir\u00e9e.",
+                "time_in_seconds": 771,
+                "time_text": "12:51",
+                "timestamp": 1575670715810480,
+                "timestamp_str": "2019-12-06 23:18:35",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 771601
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "ahmed TRAORE",
+                "author_id": "UCtCVQKIs-yLLckCPUTWA0Qw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Ben&jerry\u2019s et Zola pour bien terminer ma soir\u00e9e.",
+                "ticker_duration": 300,
+                "time_in_seconds": 771,
+                "time_text": "12:51",
+                "timestamp": 1575670715810480,
+                "timestamp_str": "2019-12-06 23:18:35",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 771601
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "eva",
+                "author_id": "UCNZ70ZsRtduM1_M0TfATjxA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\u00e7a fera 1 an et 2 mois que j'ai d\u00e9couvert ta cha\u00eene, merci pour ces pr\u00e9cieux conseils et cette pimenterie\ud83c\udf36\ud83c\udf36\ud83c\udf36",
+                "time_in_seconds": 834,
+                "time_text": "13:54",
+                "timestamp": 1575670778916683,
+                "timestamp_str": "2019-12-06 23:19:38",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 834692
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "eva",
+                "author_id": "UCNZ70ZsRtduM1_M0TfATjxA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\u00e7a fera 1 an et 2 mois que j'ai d\u00e9couvert ta cha\u00eene, merci pour ces pr\u00e9cieux conseils et cette pimenterie\ud83c\udf36\ud83c\udf36\ud83c\udf36",
+                "ticker_duration": 120,
+                "time_in_seconds": 834,
+                "time_text": "13:54",
+                "timestamp": 1575670778916683,
+                "timestamp_str": "2019-12-06 23:19:38",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 834692
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "mamadou s.",
+                "author_id": "UCo8DVj49WBAktjDbVJh0QtA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 941,
+                "time_text": "15:41",
+                "timestamp": 1575670885356821,
+                "timestamp_str": "2019-12-06 23:21:25",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 941136
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "mamadou s.",
+                "author_id": "UCo8DVj49WBAktjDbVJh0QtA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 941,
+                "time_text": "15:41",
+                "timestamp": 1575670885356821,
+                "timestamp_str": "2019-12-06 23:21:25",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 941136
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Ninou Nini",
+                "author_id": "UC1HE52IlyvgaoBalGm1ePtQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Zola continue d'envoyer du \ud83c\udf36 et des \ud83c\udf5e \ud83d\ude0e",
+                "time_in_seconds": 1116,
+                "time_text": "18:36",
+                "timestamp": 1575671060496216,
+                "timestamp_str": "2019-12-06 23:24:20",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1116281
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Ninou Nini",
+                "author_id": "UC1HE52IlyvgaoBalGm1ePtQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Zola continue d'envoyer du \ud83c\udf36 et des \ud83c\udf5e \ud83d\ude0e",
+                "ticker_duration": 300,
+                "time_in_seconds": 1116,
+                "time_text": "18:36",
+                "timestamp": 1575671060496216,
+                "timestamp_str": "2019-12-06 23:24:20",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1116281
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Mimi Nails Kitoko",
+                "author_id": "UCUlPwVVbHWGiGrjrACR2wYA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 1568,
+                "time_text": "26:08",
+                "timestamp": 1575671512392295,
+                "timestamp_str": "2019-12-06 23:31:52",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1568208
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Mimi Nails Kitoko",
+                "author_id": "UCUlPwVVbHWGiGrjrACR2wYA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 1568,
+                "time_text": "26:08",
+                "timestamp": 1575671512392295,
+                "timestamp_str": "2019-12-06 23:31:52",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 1568208
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "HIRIS",
+                "author_id": "UCaAIsJQfGVgRjj1pKdqLMyA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Allez pour f\u00eater l'arriv\u00e9e de ma bourse mddr \ud83d\ude02",
+                "time_in_seconds": 2693,
+                "time_text": "44:53",
+                "timestamp": 1575672637590602,
+                "timestamp_str": "2019-12-06 23:50:37",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2693402
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "HIRIS",
+                "author_id": "UCaAIsJQfGVgRjj1pKdqLMyA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Allez pour f\u00eater l'arriv\u00e9e de ma bourse mddr \ud83d\ude02",
+                "ticker_duration": 120,
+                "time_in_seconds": 2693,
+                "time_text": "44:53",
+                "timestamp": 1575672637590602,
+                "timestamp_str": "2019-12-06 23:50:37",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 2693402
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 4187,
+                "time_text": "1:09:47",
+                "timestamp": 1575674131833526,
+                "timestamp_str": "2019-12-07 00:15:31",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4187655
+            },
+            {
+                "amount": "CHF\u00a02.00",
+                "amount_currency": "CHF",
+                "amount_euros": 1.8700327255726976,
+                "amount_value": 2.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 4252,
+                "time_text": "1:10:52",
+                "timestamp": 1575674196744113,
+                "timestamp_str": "2019-12-07 00:16:36",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4252560
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "\ud83c\udf5e\ud83c\udf5e\ud83c\udf5e\ud83c\udf5e",
+                "time_in_seconds": 4305,
+                "time_text": "1:11:45",
+                "timestamp": 1575674249434939,
+                "timestamp_str": "2019-12-07 00:17:29",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4305204
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "\ud83c\udf5e\ud83c\udf5e\ud83c\udf5e\ud83c\udf5e",
+                "ticker_duration": 300,
+                "time_in_seconds": 4305,
+                "time_text": "1:11:45",
+                "timestamp": 1575674249434939,
+                "timestamp_str": "2019-12-07 00:17:29",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4305204
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "thegreatmuskie",
+                "author_id": "UCxmvB2DsWGJeTrbqln9C7Wg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Hummm le delicieux silence de zola \u2665\ufe0f\ud83c\udf36",
+                "time_in_seconds": 4427,
+                "time_text": "1:13:47",
+                "timestamp": 1575674371986443,
+                "timestamp_str": "2019-12-07 00:19:31",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4427786
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Nini Say",
+                "author_id": "UCETNiQyxIeYOosiE4ME6qMw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Mais qui sont ces gris ?\ud83d\ude2d",
+                "time_in_seconds": 4578,
+                "time_text": "1:16:18",
+                "timestamp": 1575674522401803,
+                "timestamp_str": "2019-12-07 00:22:02",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4578197
+            },
+            {
+                "amount": "\u20ac54.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 54.99,
+                "amount_value": 54.99,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#e91e63ff",
+                    "rgba": [
+                        233,
+                        30,
+                        99,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#c2185bff",
+                    "rgba": [
+                        194,
+                        24,
+                        91,
+                        255
+                    ]
+                },
+                "message": "Zola c\u2019est comme la beaut\u00e9 , malheureusement ou heureusement \u00e0 travers l\u2019histoire durant la guerre , l\u2019esclavage , la Shoah des femmes ont pu \u00e9chapper aux pires. Alors si certaines femmes pensent que c\u2019est rien ... courage \u00e0 elles.",
+                "time_in_seconds": 4893,
+                "time_text": "1:21:33",
+                "timestamp": 1575674838177193,
+                "timestamp_str": "2019-12-07 00:27:18",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4893969
+            },
+            {
+                "amount": "\u20ac54.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 54.99,
+                "amount_value": 54.99,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#e91e63ff",
+                    "rgba": [
+                        233,
+                        30,
+                        99,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#c2185bff",
+                    "rgba": [
+                        194,
+                        24,
+                        91,
+                        255
+                    ]
+                },
+                "message": "Zola c\u2019est comme la beaut\u00e9 , malheureusement ou heureusement \u00e0 travers l\u2019histoire durant la guerre , l\u2019esclavage , la Shoah des femmes ont pu \u00e9chapper aux pires. Alors si certaines femmes pensent que c\u2019est rien ... courage \u00e0 elles.",
+                "ticker_duration": 1800,
+                "time_in_seconds": 4893,
+                "time_text": "1:21:33",
+                "timestamp": 1575674838177193,
+                "timestamp_str": "2019-12-07 00:27:18",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 4893969
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "D\u00e9dicace \u00e0 tous les absents aux td \ud83d\ude02\ud83d\ude02",
+                "time_in_seconds": 5657,
+                "time_text": "1:34:17",
+                "timestamp": 1575675601401707,
+                "timestamp_str": "2019-12-07 00:40:01",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 5657234
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Long John Silver",
+                "author_id": "UC-CcFJy5P8B9IcmRik6ynWQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 6503,
+                "time_text": "1:48:23",
+                "timestamp": 1575676447876229,
+                "timestamp_str": "2019-12-07 00:54:07",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 6503647
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Long John Silver",
+                "author_id": "UC-CcFJy5P8B9IcmRik6ynWQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 6503,
+                "time_text": "1:48:23",
+                "timestamp": 1575676447876229,
+                "timestamp_str": "2019-12-07 00:54:07",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 6503647
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "J\u2019esp\u00e8re pouvoir bient\u00f4t venir au capucharlotte \ud83d\udcab",
+                "time_in_seconds": 6548,
+                "time_text": "1:49:08",
+                "timestamp": 1575676492740065,
+                "timestamp_str": "2019-12-07 00:54:52",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 6548541
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Le m\u00e9tier d\u2019avocat vas bient\u00f4t dispara\u00eetre comme d\u2019autres, beaucoup n\u2019ont pas compris que le game \u00e0 chang\u00e9 ... \u00e7a va faire mal",
+                "time_in_seconds": 6934,
+                "time_text": "1:55:34",
+                "timestamp": 1575676878826187,
+                "timestamp_str": "2019-12-07 01:01:18",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 6934662
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Stefania N",
+                "author_id": "UC61osuLwIW6VfihDTkdjJgw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Le m\u00e9tier d\u2019avocat vas bient\u00f4t dispara\u00eetre comme d\u2019autres, beaucoup n\u2019ont pas compris que le game \u00e0 chang\u00e9 ... \u00e7a va faire mal",
+                "ticker_duration": 120,
+                "time_in_seconds": 6934,
+                "time_text": "1:55:34",
+                "timestamp": 1575676878826187,
+                "timestamp_str": "2019-12-07 01:01:18",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 6934662
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Mode Off",
+                "author_id": "UCVSKkG9bggbzcVb2GN02uhQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Mdr Zola, Jsuis \u00e0 terre !! Bonne continuation",
+                "time_in_seconds": 8537,
+                "time_text": "2:22:17",
+                "timestamp": 1575678481798753,
+                "timestamp_str": "2019-12-07 01:28:01",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 8537570
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Mode Off",
+                "author_id": "UCVSKkG9bggbzcVb2GN02uhQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Mdr Zola, Jsuis \u00e0 terre !! Bonne continuation",
+                "ticker_duration": 300,
+                "time_in_seconds": 8537,
+                "time_text": "2:22:17",
+                "timestamp": 1575678481798753,
+                "timestamp_str": "2019-12-07 01:28:01",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 8537570
+            },
+            {
+                "amount": "CHF\u00a04.00",
+                "amount_currency": "CHF",
+                "amount_euros": 3.7400654511453952,
+                "amount_value": 4.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 9174,
+                "time_text": "2:32:54",
+                "timestamp": 1575679121784698,
+                "timestamp_str": "2019-12-07 01:38:41",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 9174800
+            },
+            {
+                "amount": "\u20ac4.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 4.0,
+                "amount_value": 4.0,
+                "author": "Sawadogo Aline",
+                "author_id": "UCvJopjceWMRYMHRmAcHfqOg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "je soutient!!!",
+                "time_in_seconds": 10488,
+                "time_text": "2:54:48",
+                "timestamp": 1575680435057297,
+                "timestamp_str": "2019-12-07 02:00:35",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 10488015
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Namiko",
+                "author_id": "UCV3EJt3tOs8VuXsiiFVUhaQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Je viens de capter que j'avais eu ma paye. merci pour ce Piment Zola \ud83c\udf36\ud83c\udf36\ud83c\udf36 2020 on evolue",
+                "time_in_seconds": 10742,
+                "time_text": "2:59:02",
+                "timestamp": 1575680689677428,
+                "timestamp_str": "2019-12-07 02:04:49",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 10742650
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Namiko",
+                "author_id": "UCV3EJt3tOs8VuXsiiFVUhaQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Je viens de capter que j'avais eu ma paye. merci pour ce Piment Zola \ud83c\udf36\ud83c\udf36\ud83c\udf36 2020 on evolue",
+                "ticker_duration": 300,
+                "time_in_seconds": 10742,
+                "time_text": "2:59:02",
+                "timestamp": 1575680689677428,
+                "timestamp_str": "2019-12-07 02:04:49",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 10742650
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Long John Silver",
+                "author_id": "UC-CcFJy5P8B9IcmRik6ynWQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 12568,
+                "time_text": "3:29:28",
+                "timestamp": 1575682515810055,
+                "timestamp_str": "2019-12-07 02:35:15",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 12568729
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Long John Silver",
+                "author_id": "UC-CcFJy5P8B9IcmRik6ynWQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 12568,
+                "time_text": "3:29:28",
+                "timestamp": 1575682515810055,
+                "timestamp_str": "2019-12-07 02:35:15",
+                "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome",
+                "video_offset_time_msec": 12568729
+            }
+        ],
+        "resume": {
+            "biggest_donation": 54.99,
+            "biggest_donator": "Stefania N",
+            "donations_n": 43,
+            "donations_total": 410.2300981767183,
+            "duration_seconds": 12380,
+            "duration_str": "3:26:20",
+            "end_str": "2019-12-07 02:35:15",
+            "end_unix": 1575682515,
+            "number_of_unknown_donations": 0,
+            "start_str": "2019-12-06 23:08:55",
+            "start_unix": 1575670135,
+            "unknown_youtube_currencies": []
+        },
+        "url": "https://www.youtube.com/watch?v=Uh22f9hmX7s&ab_channel=ZolaHome"
+    }
+}

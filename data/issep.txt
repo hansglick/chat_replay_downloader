@@ -1,0 +1,150 @@
+20210111;JB2gl1tPR1s;3797;Conférence de Guillaume Bigot
+20201228;J0tCIadFs_o;85;Témoignage de Tiphaine, étudiante en BAC+4 à l'ISSEP !
+20201223;jOaPLF6Sh18;73;La bibliothèque de l'ISSEP existe grâce à vous !
+20201221;-RlR3AHz00c;4555;ISSEP - Conférence de Charles Prats - Cartel des fraudes
+20201216;IBjgeHnK2JY;76;Charles, étudiant de formation continue à l'ISSEP !
+20201204;hCwKbzbyuW4;1444;Charlotte d'Ornellas et Geoffroy Lejeune interrogés par les étudiants de l'ISSEP
+20201204;qNORtRQ3D8Y;5125;Conférence de Florian Philippot - Covid-19, l'oligarchie démasquée
+20201021;ba64PrFerAw;3978;DIRECT ISSEP - Conférence de Charlotte d'Ornellas et Geoffroy Lejeune
+20201015;V7bylAYULIw;1139;Régis de Castelnau interrogé par les étudiants de l'ISSEP
+20201015;A_SA9ZnOBK4;1180;Gabriel Robin et Benjamin Demeslay interrogés par les étudiants de l'ISSEP
+20201014;EbixCemzqSk;996;Laurent Izard interrogé par les étudiants de l'ISSEP
+20201014;9662ZBwCvTA;1409;Gil Mihaely interrogé par les étudiants de l'ISSEP
+20201001;R-m9FKcQkZY;130;Rentrée de la troisième promotion de magistère en Bac+4 !
+20200917;NqiQpGMcpv8;96;Message de Marion Maréchal pour la rentrée 2020
+20200908;OJKFPb-lTFU;72;Rejoignez la formation en deux ans de l'ISSEP !
+20200827;9BDDrVzy2RE;71;La formation continue de l'ISSEP
+20200624;Z-8ZVoO5lKU;140;Présentation du cours de rhétorique _ ISSEP
+20200622;7veJGFPwfdk;112;Message de Marion Maréchal sur l'après Covid-19 et la formation de nos dirigeants
+20200515;5Rkq5H67k3c;2986;#11 Cours en ligne de l'ISSEP _ Economie avec Patrick Louis _ Dépenses de santé et faillite globale
+20200514;RiwkdezXfB4;3729;#10 Cours en ligne de l'ISSEP _ Economie avec Patrick Louis _ Notions essentielles
+20200514;Xu61BmoN_sE;4175;#9 Cours en ligne de l'ISSEP _ Histoire des idées avec YM Adeline _ Quelle attitude face à la mort 
+20200505;gP3ZqsuAZqo;62;Présentation du cours d'analyse électorale _ ISSEP
+20200505;jNPbJFm337M;74;Présentation du cours d'intelligence économique _ ISSEP
+20200504;EnMkGrS8eio;78;Stage de cohésion des étudiants _ Hiver 2020
+20200428;wVNKapSQ2-w;41;Stage d'œnologie de l'ISSEP _ Janvier 2020
+20200428;Iu3GtZg72rw;5598;#8 Cours en ligne de l'ISSEP _ Géopolitique avec Thomann _ L'Europe post-COVID-19
+20200427;qjOGI9_c-BQ;5296;#7 Cours en ligne de l'ISSEP _ Géopolitique avec Thomann _ L'UE face aux crises internes et externes
+20200427;hVsYjcViOMc;4670;#6 Cours en ligne de l'ISSEP _ Géopolitique avec PE Thomann _ La nouvelle rivalité franco-allemande
+20200427;7g-l6d1PPoc;5399;#5 Cours en ligne de l'ISSEP _ Géopolitique avec PE Thomann _ Le projet européen  - ses fondements
+20200423;BG4YM62ra0A;5061;#4 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Helmut Kohl et la réunification 🇩🇪
+20200423;go5dPd62w_4;4849;#3 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Margaret Thatcher
+20200422;JDiC1-ByMAM;4792;#2 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Charles de Gaulle et mai 1968
+20200422;hmwSEuf4Jnw;4758;#1 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Cuba
+20200331;MdZTC2IC5gw;76;COVID 19 _ Message de Marion Maréchal, directrice générale de l'ISSEP
+20200326;V9Ld7rfU3lk;159;Les étudiants vous font découvrir l'ISSEP !
+20200102;_jPtwjaSTa0;287;Marion Maréchal, directrice de l'ISSEP, présente ses voeux pour 2020
+20191218;xWAvIkGcCqg;120;Stage de cohésion des étudiants de Bac+4 - octobre 2019
+20191121;oHlSGT51P0s;108;Le prochain cycle de formation continue de l'ISSEP  - janvier 2020
+20191017;Y_wJ2OxC8wE;106;Michel Collin présente son cours de philosophie
+20191014;UjuY9Rf1EGU;75;Frédéric Pons presents his class in communication strategies
+20191009;IH93JMIuCAM;81;Stage de cohésion des étudiants de formation continue - août 2019
+20190920;jWBdAhI0Mg8;94;La bibliothèque de l'ISSEP
+20190716;WyGJY6YBM7M;116;Marion Maréchal présente le magistère Bac+4 - Bac+5 de l'ISSEP
+20190711;Gi7C00fA6vk;157;Message de Marion Maréchal à l'occasion du premier anniversaire de l'ISSEP
+20190709;1wvKNHwGzv4;100;Inès, étudiante de la première promotion de formation continue de l'ISSEP
+20190619;YE6eTOJMKB4;1209;Xavier Raufer interrogé par les étudiants de l'ISSEP
+20190610;-W-7puyhNXs;120;Edouard Husson, professeur à l'ISSEP
+20190604;GKH_QD3zEGI;70;La première année de l'ISSEP
+20190426;sTWkW9auPDg;160;Antoine a rejoint le Bac+4 de l'ISSEP
+20190418;4z1_09qjDF4;1059;Patrick Libbrecht interrogé par les étudiants de l'ISSEP
+20190417;ChVT71VAWFQ;398;Laurent ALEXANDRE interrogé par les étudiants de l'ISSEP
+20190313;K8LdXbp3h2c;1219;Jean-Paul Brighelli interrogé par les étudiants de l'ISSEP
+20190312;t5SuNZJ4e6M;139;Stage de cohésion d'hiver des étudiants de l'ISSEP
+20190305;NhybXYCZhZo;4543;Conférence de Jean Sévillia à l'ISSEP
+20190218;skjDVwhQYlE;663;Pierre Meurin présente sa mission de directeur des études à l'ISSEP
+20190129;Ul570gv3D0g;845;Jean Sévillia interrogé par les étudiants de l'ISSEP.
+20190121;V_jlAXw7ZYs;4046;Conférence de François Bousquet à l'ISSEP
+20190114;M3RFFSuBWYg;207;Marion Maréchal, directrice de l'ISSEP, présente ses voeux pour 2019
+20190107;ytNYcfIbE0w;584;François Bousquet interrogé par les étudiants de l'ISSEP
+20181231;bvsnDRl5QBM;2398;Conférence de Jean-Frédéric Poisson à l'ISSEP
+20181223;Q01MiShq6b0;78;La formation continue de l'ISSEP, c'est quoi  Maylis y répond
+20181207;dzleS7VzYYs;79;Stage d'aguerrissement des étudiants de l'ISSEP
+20181204;qftAa9KO2t8;1283;Jean-Frédéric Poisson interrogé par les étudiants de l'ISSEP
+20181129;TNmzIIh_17k;3274;Conférence d'Eric Zemmour à l'ISSEP
+20181115;JYKpzNLwSvI;906;Eric Zemmour interrogé par les étudiants de l'ISSEP
+20181113;FCp6dKqwVSo;170;Présentation de la deuxième conférence d'Histoire des idées politiques, par Yves-Marie Adeline
+20181019;lSiIs0864_Y;978;Ivan Rioufol interviewé par les étudiants de l'ISSEP
+20181016;E-Bp_AQLZ4k;820;Entretien avec Laurent Obertone par les étudiants de l'ISSEP
+20181015;mu6dwqIQ5zc;109;Introduction cours Histoire des idées politiques - Yves-Marie Adeline
+20180827;PO8KxnKA9MQ;218;Présentation de Yves Marie Adeline.
+20180827;gt4DyofMo2k;369;Pascal Gauchon
+20180827;niiLrilhyzM;233;Général Jean-Marie Faugère
+20180827;urdNNDUYtME;121;Roger Chudeau
+20180826;gkoyA_RCygQ;255;Marion Maréchal, directrice de l'ISSEP.
+20180524;yYOn6mmD0RI;171;Patrick Libbrecht, Président honoraire de l'ISSEP
+20180522;lPR_Tyzfv2w;287;Patrick Louis, Co-Président du Conseil scientifique de l'ISSEP
+20200924;8CqjJLz_0Lk;1413.0;Marion Maréchal au grand oral des GG sur RMC - 24_09_20
+20200915;tb35XrfBeEk;1504.0;Marion Maréchal face à Jean-Jacques Bourdin en direct
+20201208;EIgkDJeUkqQ;209.0;[Pôle recherche] - Lancement du CAP de l'ISSEP
+20200422;hmwSEuf4Jnw;4758.0;#1 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Cuba
+20200422;JDiC1-ByMAM;4793.0;#2 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Charles de Gaulle et mai 1968
+20200423;go5dPd62w_4;4849.0;#3 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Margaret Thatcher
+20200423;BG4YM62ra0A;5061.0;#4 Cours en ligne de l'ISSEP _ Histoire avec Edouard Husson _ Helmut Kohl et la réunification 🇩🇪
+20200427;7g-l6d1PPoc;5400.0;#5 Cours en ligne de l'ISSEP _ Géopolitique avec PE Thomann _ Le projet européen  - ses fondements
+20200427;hVsYjcViOMc;4670.0;#6 Cours en ligne de l'ISSEP _ Géopolitique avec PE Thomann _ La nouvelle rivalité franco-allemande
+20200427;qjOGI9_c-BQ;5296.0;#7 Cours en ligne de l'ISSEP _ Géopolitique avec Thomann _ L'UE face aux crises internes et externes
+20200428;Iu3GtZg72rw;5599.0;#8 Cours en ligne de l'ISSEP _ Géopolitique avec Thomann _ L'Europe post-COVID-19
+20200514;Xu61BmoN_sE;4175.0;#9 Cours en ligne de l'ISSEP _ Histoire des idées avec YM Adeline _ Quelle attitude face à la mort 
+20200514;RiwkdezXfB4;3729.0;#10 Cours en ligne de l'ISSEP _ Economie avec Patrick Louis _ Notions essentielles
+20200515;5Rkq5H67k3c;2986.0;#11 Cours en ligne de l'ISSEP _ Economie avec Patrick Louis _ Dépenses de santé et faillite globale
+20201001;R-m9FKcQkZY;131.0;Rentrée de la troisième promotion de magistère en Bac+4 !
+20200917;NqiQpGMcpv8;97.0;Message de Marion Maréchal pour la rentrée 2020
+20200624;Z-8ZVoO5lKU;141.0;Présentation du cours de rhétorique _ ISSEP
+20200622;7veJGFPwfdk;112.0;Message de Marion Maréchal sur l'après Covid-19 et la formation de nos dirigeants
+20200622;7veJGFPwfdk;112.0;Message de Marion Maréchal sur l'après Covid-19 et la formation de nos dirigeants
+20200505;gP3ZqsuAZqo;62.0;Présentation du cours d'analyse électorale _ ISSEP
+20200505;jNPbJFm337M;75.0;Présentation du cours d'intelligence économique _ ISSEP
+20200331;MdZTC2IC5gw;77.0;COVID 19 _ Message de Marion Maréchal, directrice générale de l'ISSEP
+20200102;_jPtwjaSTa0;287.0;Marion Maréchal, directrice de l'ISSEP, présente ses voeux pour 2020
+20191121;oHlSGT51P0s;108.0;Le prochain cycle de formation continue de l'ISSEP  - janvier 2020
+20191014;UjuY9Rf1EGU;75.0;Frédéric Pons presents his class in communication strategies
+20190716;WyGJY6YBM7M;116.0;Marion Maréchal présente le magistère Bac+4 - Bac+5 de l'ISSEP
+20190711;Gi7C00fA6vk;157.0;Message de Marion Maréchal à l'occasion du premier anniversaire de l'ISSEP
+20190610;-W-7puyhNXs;120.0;Edouard Husson, professeur à l'ISSEP
+20190218;skjDVwhQYlE;664.0;Pierre Meurin présente sa mission de directeur des études à l'ISSEP
+20190114;M3RFFSuBWYg;207.0;Marion Maréchal, directrice de l'ISSEP, présente ses voeux pour 2019
+20181223;Q01MiShq6b0;78.0;La formation continue de l'ISSEP, c'est quoi  Maylis y répond
+20181113;FCp6dKqwVSo;170.0;Présentation de la deuxième conférence d'Histoire des idées politiques, par Yves-Marie Adeline
+20180827;PO8KxnKA9MQ;219.0;Présentation de Yves Marie Adeline.
+20180827;gt4DyofMo2k;369.0;Pascal Gauchon
+20180827;niiLrilhyzM;233.0;Général Jean-Marie Faugère
+20180827;urdNNDUYtME;121.0;Roger Chudeau
+20180826;gkoyA_RCygQ;256.0;Marion Maréchal, directrice de l'ISSEP.
+20180524;yYOn6mmD0RI;171.0;Patrick Libbrecht, Président honoraire de l'ISSEP
+20180522;lPR_Tyzfv2w;288.0;Patrick Louis, Co-Président du Conseil scientifique de l'ISSEP
+20201228;J0tCIadFs_o;85.0;Témoignage de Tiphaine, étudiante en BAC+4 à l'ISSEP !
+20201223;jOaPLF6Sh18;74.0;La bibliothèque de l'ISSEP existe grâce à vous !
+20201216;IBjgeHnK2JY;76.0;Charles, étudiant de formation continue à l'ISSEP !
+20201001;R-m9FKcQkZY;131.0;Rentrée de la troisième promotion de magistère en Bac+4 !
+20200908;OJKFPb-lTFU;73.0;Rejoignez la formation en deux ans de l'ISSEP !
+20200827;9BDDrVzy2RE;71.0;La formation continue de l'ISSEP
+20200504;EnMkGrS8eio;78.0;Stage de cohésion des étudiants _ Hiver 2020
+20200428;wVNKapSQ2-w;42.0;Stage d'œnologie de l'ISSEP _ Janvier 2020
+20200326;V9Ld7rfU3lk;160.0;Les étudiants vous font découvrir l'ISSEP !
+20191218;xWAvIkGcCqg;121.0;Stage de cohésion des étudiants de Bac+4 - octobre 2019
+20191009;IH93JMIuCAM;82.0;Stage de cohésion des étudiants de formation continue - août 2019
+20190604;GKH_QD3zEGI;70.0;La première année de l'ISSEP
+20190312;t5SuNZJ4e6M;139.0;Stage de cohésion d'hiver des étudiants de l'ISSEP
+20181207;dzleS7VzYYs;80.0;Stage d'aguerrissement des étudiants de l'ISSEP
+20201204;hCwKbzbyuW4;1445.0;Charlotte d'Ornellas et Geoffroy Lejeune interrogés par les étudiants de l'ISSEP
+20201015;V7bylAYULIw;1139.0;Régis de Castelnau interrogé par les étudiants de l'ISSEP
+20201015;A_SA9ZnOBK4;1181.0;Gabriel Robin et Benjamin Demeslay interrogés par les étudiants de l'ISSEP
+20201014;EbixCemzqSk;997.0;Laurent Izard interrogé par les étudiants de l'ISSEP
+20201014;9662ZBwCvTA;1410.0;Gil Mihaely interrogé par les étudiants de l'ISSEP
+20190619;YE6eTOJMKB4;1209.0;Xavier Raufer interrogé par les étudiants de l'ISSEP
+20190417;ChVT71VAWFQ;398.0;Laurent ALEXANDRE interrogé par les étudiants de l'ISSEP
+20190313;K8LdXbp3h2c;1219.0;Jean-Paul Brighelli interrogé par les étudiants de l'ISSEP
+20190129;Ul570gv3D0g;846.0;Jean Sévillia interrogé par les étudiants de l'ISSEP.
+20181016;E-Bp_AQLZ4k;821.0;Entretien avec Laurent Obertone par les étudiants de l'ISSEP
+20181019;lSiIs0864_Y;978.0;Ivan Rioufol interviewé par les étudiants de l'ISSEP
+20181115;JYKpzNLwSvI;907.0;Eric Zemmour interrogé par les étudiants de l'ISSEP
+20181204;qftAa9KO2t8;1283.0;Jean-Frédéric Poisson interrogé par les étudiants de l'ISSEP
+20190107;ytNYcfIbE0w;584.0;François Bousquet interrogé par les étudiants de l'ISSEP
+20181129;TNmzIIh_17k;3274.0;Conférence d'Eric Zemmour à l'ISSEP
+20201204;qNORtRQ3D8Y;5126.0;Conférence de Florian Philippot - Covid-19, l'oligarchie démasquée
+20201021;ba64PrFerAw;3979.0;DIRECT ISSEP - Conférence de Charlotte d'Ornellas et Geoffroy Lejeune
+20201221;-RlR3AHz00c;4556.0;ISSEP - Conférence de Charles Prats - Cartel des fraudes
+20190305;NhybXYCZhZo;4543.0;Conférence de Jean Sévillia à l'ISSEP
+20190121;V_jlAXw7ZYs;4046.0;Conférence de François Bousquet à l'ISSEP
+20181231;bvsnDRl5QBM;2399.0;Conférence de Jean-Frédéric Poisson à l'ISSEP

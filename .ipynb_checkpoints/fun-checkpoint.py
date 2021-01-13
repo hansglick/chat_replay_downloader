@@ -25,20 +25,12 @@ def Extract_Resume_From_Messages(messages):
 	duration_seconds = int((messages[-1]["timestamp"] - messages[0]["timestamp"])/1000000)
 	duration_str = str(datetime.timedelta(seconds=duration_seconds))
 
+	donations_array.sort(key = lambda a : -a[0])
+	donations_total = sum([item[0] for item in donations_array])
+	biggest_donation = donations_array[0][0]
+	biggest_donator = donations_array[0][1]
+	donations_n = len(donations_array)
 	
-	if len(donations_array)>0:
-		donations_array.sort(key = lambda a : -a[0])
-		donations_total = sum([item[0] for item in donations_array])
-		biggest_donation = donations_array[0][0]
-		biggest_donator = donations_array[0][1]
-		donations_n = len(donations_array)
-	else:
-		donations_total = 0
-		biggest_donation = 0
-		biggest_donator = 0
-		donations_n = 0
-
-
 	unknown_donations = [msg["amount_currency"] for msg in messages if "amount_value" in msg and msg["currency_code"] == "not found"]
 	number_of_unknown_donations = len(unknown_donations)
 	unknown_youtube_currencies = list(set(unknown_donations))
@@ -115,25 +107,12 @@ def Get_Money(urls_list):
 		print("")
 		try:
 			messages = get_chat_replay(url = url_video,message_type = "superchat")
-			
-			# Le code de l'auteur du package n'estpas propre, les dons sont doublés, on doit les dédupliquer
-			DEDUP = []
-			MESSAGES = []
-			for item in messages:
-			    if item["timestamp"] in DEDUP:
-			        continue
-			    else:
-			        DEDUP.append(item["timestamp"])
-			        MESSAGES.append(item)
-			messages = MESSAGES
-
 		except:
 			continue
-		if len(messages)>0:
-			messages,errors = Add_Entries_To_Messages(messages,url_video)
-			resume = Extract_Resume_From_Messages(messages)
-			video[url_video] = {"url":url_video,
-							"messages":messages,
-							"resume":resume,
-							"errors":errors}
+		messages,errors = Add_Entries_To_Messages(messages,url_video)
+		resume = Extract_Resume_From_Messages(messages)
+		video[url_video] = {"url":url_video,
+						"messages":messages,
+						"resume":resume,
+						"errors":errors}
 	return video

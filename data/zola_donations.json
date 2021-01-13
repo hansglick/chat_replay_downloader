@@ -1,0 +1,2982 @@
+{
+    "https://www.youtube.com/watch?v=09ZK5XgsynM": {
+        "errors": 0,
+        "messages": [
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Fa B\u00e9",
+                "author_id": "UC2UFr3E0mDnIt9Ao7apJbGQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "\ud83d\udc1d\ud83d\udc1d",
+                "time_in_seconds": 76,
+                "time_text": "1:16",
+                "timestamp": 1588345864611994,
+                "timestamp_str": "2020-05-01 17:11:04",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 76663
+            },
+            {
+                "amount": "CHF\u00a02.00",
+                "amount_currency": "CHF",
+                "amount_euros": 1.8700327255726976,
+                "amount_value": 2.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "message": null,
+                "time_in_seconds": 123,
+                "time_text": "2:03",
+                "timestamp": 1588345911037347,
+                "timestamp_str": "2020-05-01 17:11:51",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 123225
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Itsmommy J",
+                "author_id": "UCxmVu4bbr-Xrsy0WpY8eg_w",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Bonjour Zola bonjour la zoivance \ud83c\udf36\ud83c\udf36\ud83c\udf36",
+                "time_in_seconds": 132,
+                "time_text": "2:12",
+                "timestamp": 1588345920157015,
+                "timestamp_str": "2020-05-01 17:12:00",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 132343
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Itsmommy J",
+                "author_id": "UCxmVu4bbr-Xrsy0WpY8eg_w",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Bonjour Zola bonjour la zoivance \ud83c\udf36\ud83c\udf36\ud83c\udf36",
+                "ticker_duration": 120,
+                "time_in_seconds": 132,
+                "time_text": "2:12",
+                "timestamp": 1588345920157015,
+                "timestamp_str": "2020-05-01 17:12:00",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 132343
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Elizabeth Lebo",
+                "author_id": "UCDysJrjkixBCZFDUpn6EtPQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Merciiii \ud83e\udd70",
+                "time_in_seconds": 170,
+                "time_text": "2:50",
+                "timestamp": 1588345958354723,
+                "timestamp_str": "2020-05-01 17:12:38",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 170525
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Sab S",
+                "author_id": "UCJuvsT2fmbbDZsuOpXYDwYg",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "MERCI ZOLA \ud83c\udf36\ud83c\udf36\ud83c\udf5e\ud83c\udf5e",
+                "time_in_seconds": 293,
+                "time_text": "4:53",
+                "timestamp": 1588346081293219,
+                "timestamp_str": "2020-05-01 17:14:41",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 293484
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Sab S",
+                "author_id": "UCJuvsT2fmbbDZsuOpXYDwYg",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "MERCI ZOLA \ud83c\udf36\ud83c\udf36\ud83c\udf5e\ud83c\udf5e",
+                "ticker_duration": 120,
+                "time_in_seconds": 293,
+                "time_text": "4:53",
+                "timestamp": 1588346081293219,
+                "timestamp_str": "2020-05-01 17:14:41",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 293484
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "H B",
+                "author_id": "UCaI4KZHOhV6fpzQ3VnEKQHA",
+                "body_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 642,
+                "time_text": "10:42",
+                "timestamp": 1588346429954677,
+                "timestamp_str": "2020-05-01 17:20:29",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 642130
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "H B",
+                "author_id": "UCaI4KZHOhV6fpzQ3VnEKQHA",
+                "body_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 300,
+                "time_in_seconds": 642,
+                "time_text": "10:42",
+                "timestamp": 1588346429954677,
+                "timestamp_str": "2020-05-01 17:20:29",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 642130
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Laura",
+                "author_id": "UChmE9zR4xsWg_AGCUtieV5Q",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "je t'aime",
+                "time_in_seconds": 656,
+                "time_text": "10:56",
+                "timestamp": 1588346444771362,
+                "timestamp_str": "2020-05-01 17:20:44",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 656944
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Fatim Fama",
+                "author_id": "UCebCTox9MpYBIdQtkvKDqMA",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Love \u2764\ufe0f",
+                "time_in_seconds": 657,
+                "time_text": "10:57",
+                "timestamp": 1588346445537937,
+                "timestamp_str": "2020-05-01 17:20:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 657711
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Fatim Fama",
+                "author_id": "UCebCTox9MpYBIdQtkvKDqMA",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Love \u2764\ufe0f",
+                "ticker_duration": 300,
+                "time_in_seconds": 657,
+                "time_text": "10:57",
+                "timestamp": 1588346445537937,
+                "timestamp_str": "2020-05-01 17:20:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 657711
+            },
+            {
+                "amount": "CHF\u00a02.00",
+                "amount_currency": "CHF",
+                "amount_euros": 1.8700327255726976,
+                "amount_value": 2.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Merci Zola pour tes conseils d\u2019hier \ud83d\ude0a",
+                "time_in_seconds": 699,
+                "time_text": "11:39",
+                "timestamp": 1588346486840781,
+                "timestamp_str": "2020-05-01 17:21:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 699045
+            },
+            {
+                "amount": "\u00a35.00",
+                "amount_currency": "\u00a3",
+                "amount_euros": 5.552285876095188,
+                "amount_value": 5.0,
+                "author": "Fabiola LENZ",
+                "author_id": "UCQhD_VNxh4qjphNpDVBb85Q",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "GBP",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Pour le plaisir \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f",
+                "time_in_seconds": 768,
+                "time_text": "12:48",
+                "timestamp": 1588346556298293,
+                "timestamp_str": "2020-05-01 17:22:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 768492
+            },
+            {
+                "amount": "\u00a35.00",
+                "amount_currency": "\u00a3",
+                "amount_euros": 5.552285876095188,
+                "amount_value": 5.0,
+                "author": "Fabiola LENZ",
+                "author_id": "UCQhD_VNxh4qjphNpDVBb85Q",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "GBP",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Pour le plaisir \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f",
+                "ticker_duration": 120,
+                "time_in_seconds": 768,
+                "time_text": "12:48",
+                "timestamp": 1588346556298293,
+                "timestamp_str": "2020-05-01 17:22:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 768492
+            },
+            {
+                "amount": "\u20ac4.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 4.49,
+                "amount_value": 4.49,
+                "author": "irene shimba",
+                "author_id": "UCCrSPRfm-2uQ5PyRYgaQxHQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Coucou Zola \ud83d\ude18",
+                "time_in_seconds": 825,
+                "time_text": "13:45",
+                "timestamp": 1588346612829905,
+                "timestamp_str": "2020-05-01 17:23:32",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 825015
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "irene shimba",
+                "author_id": "UCCrSPRfm-2uQ5PyRYgaQxHQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 2081,
+                "time_text": "34:41",
+                "timestamp": 1588347894952780,
+                "timestamp_str": "2020-05-01 17:44:54",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 2081858
+            },
+            {
+                "amount": "CHF\u00a02.00",
+                "amount_currency": "CHF",
+                "amount_euros": 1.8700327255726976,
+                "amount_value": 2.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "message": null,
+                "time_in_seconds": 2091,
+                "time_text": "34:51",
+                "timestamp": 1588347904875496,
+                "timestamp_str": "2020-05-01 17:45:04",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 2091779
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "elianeasiam",
+                "author_id": "UC-h4hgt2xTHtdpwzeqO9jow",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 3158,
+                "time_text": "52:38",
+                "timestamp": 1588348971972957,
+                "timestamp_str": "2020-05-01 18:02:51",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3158858
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "elianeasiam",
+                "author_id": "UC-h4hgt2xTHtdpwzeqO9jow",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 3158,
+                "time_text": "52:38",
+                "timestamp": 1588348971972957,
+                "timestamp_str": "2020-05-01 18:02:51",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3158858
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "r.",
+                "author_id": "UCMaPeAI2f83Q6ZNAwgKVSpg",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 3182,
+                "time_text": "53:02",
+                "timestamp": 1588348995733884,
+                "timestamp_str": "2020-05-01 18:03:15",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3182631
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Fatou",
+                "author_id": "UCiKkFCeQC8kr2dOpn6SMWzQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 3228,
+                "time_text": "53:48",
+                "timestamp": 1588349041316653,
+                "timestamp_str": "2020-05-01 18:04:01",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3228222
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Fatou",
+                "author_id": "UCiKkFCeQC8kr2dOpn6SMWzQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 3228,
+                "time_text": "53:48",
+                "timestamp": 1588349041316653,
+                "timestamp_str": "2020-05-01 18:04:01",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3228222
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Lauraine L",
+                "author_id": "UC0tkds3O0-rxD6iuqB7_H7Q",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je mets ma contribution m\u00eame si je vais pas rester je rattraperai plus tard. Merci \u00e0 Larissa pour sa participation \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f",
+                "time_in_seconds": 3379,
+                "time_text": "56:19",
+                "timestamp": 1588349192784884,
+                "timestamp_str": "2020-05-01 18:06:32",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3379704
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Lauraine L",
+                "author_id": "UC0tkds3O0-rxD6iuqB7_H7Q",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je mets ma contribution m\u00eame si je vais pas rester je rattraperai plus tard. Merci \u00e0 Larissa pour sa participation \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f",
+                "ticker_duration": 120,
+                "time_in_seconds": 3379,
+                "time_text": "56:19",
+                "timestamp": 1588349192784884,
+                "timestamp_str": "2020-05-01 18:06:32",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3379704
+            },
+            {
+                "amount": "CHF\u00a05.00",
+                "amount_currency": "CHF",
+                "amount_euros": 4.675081813931744,
+                "amount_value": 5.0,
+                "author": "Lauren Lauren",
+                "author_id": "UCPb6nz_hyouqyNTXysiCXJQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola : As-tu vu la s\u00e9rie Gangs of London ? #sujet suivant",
+                "time_in_seconds": 3512,
+                "time_text": "58:32",
+                "timestamp": 1588349325865161,
+                "timestamp_str": "2020-05-01 18:08:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3512774
+            },
+            {
+                "amount": "CHF\u00a05.00",
+                "amount_currency": "CHF",
+                "amount_euros": 4.675081813931744,
+                "amount_value": 5.0,
+                "author": "Lauren Lauren",
+                "author_id": "UCPb6nz_hyouqyNTXysiCXJQ",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Zola : As-tu vu la s\u00e9rie Gangs of London ? #sujet suivant",
+                "ticker_duration": 120,
+                "time_in_seconds": 3512,
+                "time_text": "58:32",
+                "timestamp": 1588349325865161,
+                "timestamp_str": "2020-05-01 18:08:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3512774
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Priscillia Franceska Alejandra",
+                "author_id": "UCMVWxFQoAnCwBSV6MO-GKmA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "ZOLA, les gens ne comprennent pas qu'il faut une remise \u00e0 niveau ! Le branding c'est important! ",
+                "time_in_seconds": 3751,
+                "time_text": "1:02:31",
+                "timestamp": 1588349564725650,
+                "timestamp_str": "2020-05-01 18:12:44",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3751643
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Priscillia Franceska Alejandra",
+                "author_id": "UCMVWxFQoAnCwBSV6MO-GKmA",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "ZOLA, les gens ne comprennent pas qu'il faut une remise \u00e0 niveau ! Le branding c'est important! ",
+                "ticker_duration": 120,
+                "time_in_seconds": 3751,
+                "time_text": "1:02:31",
+                "timestamp": 1588349564725650,
+                "timestamp_str": "2020-05-01 18:12:44",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3751643
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Liily Campbell",
+                "author_id": "UCoXSg57zTUG5IJHBht7s97A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je suis broke malheureusement mais bisous \u00e0 vous deux Larissa et Zola et merci pour tout \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+                "time_in_seconds": 3807,
+                "time_text": "1:03:27",
+                "timestamp": 1588349620902857,
+                "timestamp_str": "2020-05-01 18:13:40",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3807845
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Liily Campbell",
+                "author_id": "UCoXSg57zTUG5IJHBht7s97A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Je suis broke malheureusement mais bisous \u00e0 vous deux Larissa et Zola et merci pour tout \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+                "ticker_duration": 120,
+                "time_in_seconds": 3807,
+                "time_text": "1:03:27",
+                "timestamp": 1588349620902857,
+                "timestamp_str": "2020-05-01 18:13:40",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3807845
+            },
+            {
+                "amount": "NOK\u00a020.00",
+                "amount_currency": "NOK",
+                "amount_euros": 1.7997264415808798,
+                "amount_value": 20.0,
+                "author": "Chrispina Zonon",
+                "author_id": "UCHhjhlRdm6NBV7bfe9V7Kxg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "NOK",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "dommage pour les non on aurait pu en profiter tous",
+                "time_in_seconds": 3930,
+                "time_text": "1:05:30",
+                "timestamp": 1588349743719593,
+                "timestamp_str": "2020-05-01 18:15:43",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3930652
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Sira Sira",
+                "author_id": "UCIkqitTi8ag1bHxc_tN1h0A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Coucou Zola, je suis \"Loretha\" mais puisque mon compte est rattach\u00e9 \u00e0 mon email je dois laisser mon vrai pr\u00e9nom ",
+                "time_in_seconds": 3981,
+                "time_text": "1:06:21",
+                "timestamp": 1588349794812162,
+                "timestamp_str": "2020-05-01 18:16:34",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3981721
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Sira Sira",
+                "author_id": "UCIkqitTi8ag1bHxc_tN1h0A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Coucou Zola, je suis \"Loretha\" mais puisque mon compte est rattach\u00e9 \u00e0 mon email je dois laisser mon vrai pr\u00e9nom ",
+                "ticker_duration": 120,
+                "time_in_seconds": 3981,
+                "time_text": "1:06:21",
+                "timestamp": 1588349794812162,
+                "timestamp_str": "2020-05-01 18:16:34",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 3981721
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Da\u00efma Black",
+                "author_id": "UCKPOLJ5lTcq_83OIrTlvh9w",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Coucou Zola, de passage pour te remercier pour tout ton travail, \u00e7a m\u2019aide beaucoup . Reste comme tu es \u2764\ufe0f",
+                "time_in_seconds": 4213,
+                "time_text": "1:10:13",
+                "timestamp": 1588350026415206,
+                "timestamp_str": "2020-05-01 18:20:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4213317
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "Da\u00efma Black",
+                "author_id": "UCKPOLJ5lTcq_83OIrTlvh9w",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Coucou Zola, de passage pour te remercier pour tout ton travail, \u00e7a m\u2019aide beaucoup . Reste comme tu es \u2764\ufe0f",
+                "ticker_duration": 300,
+                "time_in_seconds": 4213,
+                "time_text": "1:10:13",
+                "timestamp": 1588350026415206,
+                "timestamp_str": "2020-05-01 18:20:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4213317
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Y_ A",
+                "author_id": "UCXtLkAstwdvTaVOtmsA-48A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\ud83d\udc4f\ud83d\udc4f",
+                "time_in_seconds": 4482,
+                "time_text": "1:14:42",
+                "timestamp": 1588350295177679,
+                "timestamp_str": "2020-05-01 18:24:55",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4482097
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Y_ A",
+                "author_id": "UCXtLkAstwdvTaVOtmsA-48A",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "\ud83d\udc4f\ud83d\udc4f",
+                "ticker_duration": 120,
+                "time_in_seconds": 4482,
+                "time_text": "1:14:42",
+                "timestamp": 1588350295177679,
+                "timestamp_str": "2020-05-01 18:24:55",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4482097
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Pad Padawan",
+                "author_id": "UCgi1cUm1Di31cyTLRbFYZFw",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 4578,
+                "time_text": "1:16:18",
+                "timestamp": 1588350391201896,
+                "timestamp_str": "2020-05-01 18:26:31",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4578121
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Pad Padawan",
+                "author_id": "UCgi1cUm1Di31cyTLRbFYZFw",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 4578,
+                "time_text": "1:16:18",
+                "timestamp": 1588350391201896,
+                "timestamp_str": "2020-05-01 18:26:31",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4578121
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Dina T.",
+                "author_id": "UCOehhr-awQiWF6eBpTI2xgw",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 4674,
+                "time_text": "1:17:54",
+                "timestamp": 1588350487621388,
+                "timestamp_str": "2020-05-01 18:28:07",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4674560
+            },
+            {
+                "amount": "\u20ac5.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.49,
+                "amount_value": 5.49,
+                "author": "Dina T.",
+                "author_id": "UCOehhr-awQiWF6eBpTI2xgw",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 4674,
+                "time_text": "1:17:54",
+                "timestamp": 1588350487621388,
+                "timestamp_str": "2020-05-01 18:28:07",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4674560
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Pretty Amazing 1902",
+                "author_id": "UChhY1KfeuS84S0g2PNZmbMg",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 4823,
+                "time_text": "1:20:23",
+                "timestamp": 1588350637044538,
+                "timestamp_str": "2020-05-01 18:30:37",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4823984
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Pretty Amazing 1902",
+                "author_id": "UChhY1KfeuS84S0g2PNZmbMg",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 4823,
+                "time_text": "1:20:23",
+                "timestamp": 1588350637044538,
+                "timestamp_str": "2020-05-01 18:30:37",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4823984
+            },
+            {
+                "amount": "\u20ac21.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 21.99,
+                "amount_value": 21.99,
+                "author": "Amande",
+                "author_id": "UCzG95uDJJf8VtkoHixuoT1w",
+                "body_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 4832,
+                "time_text": "1:20:32",
+                "timestamp": 1588350645076020,
+                "timestamp_str": "2020-05-01 18:30:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4832003
+            },
+            {
+                "amount": "\u20ac21.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 21.99,
+                "amount_value": 21.99,
+                "author": "Amande",
+                "author_id": "UCzG95uDJJf8VtkoHixuoT1w",
+                "body_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 600,
+                "time_in_seconds": 4832,
+                "time_text": "1:20:32",
+                "timestamp": 1588350645076020,
+                "timestamp_str": "2020-05-01 18:30:45",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 4832003
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Binta Graham",
+                "author_id": "UCHEK105cpzoiRQ82u6tBAIg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Pour hydrater ta gorge s\u00e8che mercii tout \ud83e\udd70",
+                "time_in_seconds": 5773,
+                "time_text": "1:36:13",
+                "timestamp": 1588351586230212,
+                "timestamp_str": "2020-05-01 18:46:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 5773188
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Shez Meva",
+                "author_id": "UC92JiWHnV23abKZEiD8FRdw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Hey everybody! Zola crache cette verdad girl \ud83d\ude18 J'avais direct unfollow toutes celles qui t'ont insult\u00e9es et trait\u00e9 comme du n'importe quoi",
+                "time_in_seconds": 5918,
+                "time_text": "1:38:38",
+                "timestamp": 1588351731220773,
+                "timestamp_str": "2020-05-01 18:48:51",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 5918088
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Shez Meva",
+                "author_id": "UC92JiWHnV23abKZEiD8FRdw",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Hey everybody! Zola crache cette verdad girl \ud83d\ude18 J'avais direct unfollow toutes celles qui t'ont insult\u00e9es et trait\u00e9 comme du n'importe quoi",
+                "ticker_duration": 120,
+                "time_in_seconds": 5918,
+                "time_text": "1:38:38",
+                "timestamp": 1588351731220773,
+                "timestamp_str": "2020-05-01 18:48:51",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 5918088
+            },
+            {
+                "amount": "CHF\u00a03.00",
+                "amount_currency": "CHF",
+                "amount_euros": 2.8050490883590466,
+                "amount_value": 3.0,
+                "author": "L\u00e9o",
+                "author_id": "UCm86Gk2XsK42Dx_h2giNDNg",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "message": null,
+                "time_in_seconds": 5983,
+                "time_text": "1:39:43",
+                "timestamp": 1588351796506761,
+                "timestamp_str": "2020-05-01 18:49:56",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 5983462
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "LalaLa Land",
+                "author_id": "UCQCt8tO-2s3XNm6hDXmZ3cg",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Fan depuis longtemps les vid\u00e9os ac Aaron, puis Chris ds le parc. Ton travail est la lumi\u00e8re au bout du tunnel n\u00e9cessaire pour la jeunesse et les autres. 2020 LEVEL UP. PERIOD.",
+                "time_in_seconds": 6023,
+                "time_text": "1:40:23",
+                "timestamp": 1588351836972675,
+                "timestamp_str": "2020-05-01 18:50:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6023876
+            },
+            {
+                "amount": "\u20ac10.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.99,
+                "amount_value": 10.99,
+                "author": "LalaLa Land",
+                "author_id": "UCQCt8tO-2s3XNm6hDXmZ3cg",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Fan depuis longtemps les vid\u00e9os ac Aaron, puis Chris ds le parc. Ton travail est la lumi\u00e8re au bout du tunnel n\u00e9cessaire pour la jeunesse et les autres. 2020 LEVEL UP. PERIOD.",
+                "ticker_duration": 300,
+                "time_in_seconds": 6023,
+                "time_text": "1:40:23",
+                "timestamp": 1588351836972675,
+                "timestamp_str": "2020-05-01 18:50:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6023876
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "mk",
+                "author_id": "UCbtyHb7hYKZceOufPXCWg1Q",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "je veux vivre autrement et m'am\u00e9liorer j'ai d\u00e9couvert Aaron et Zola il y a 3 ans et ce n'est que du bonheur \u00eatre noir ne doit plus \u00eatre associ\u00e9 \u00e0 la souffrance on est libre d\u00e9sormais il faut vivre",
+                "time_in_seconds": 6146,
+                "time_text": "1:42:26",
+                "timestamp": 1588351959517242,
+                "timestamp_str": "2020-05-01 18:52:39",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6146480
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "mk",
+                "author_id": "UCbtyHb7hYKZceOufPXCWg1Q",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "je veux vivre autrement et m'am\u00e9liorer j'ai d\u00e9couvert Aaron et Zola il y a 3 ans et ce n'est que du bonheur \u00eatre noir ne doit plus \u00eatre associ\u00e9 \u00e0 la souffrance on est libre d\u00e9sormais il faut vivre",
+                "ticker_duration": 300,
+                "time_in_seconds": 6146,
+                "time_text": "1:42:26",
+                "timestamp": 1588351959517242,
+                "timestamp_str": "2020-05-01 18:52:39",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6146480
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "LaFilleDuSoleil",
+                "author_id": "UCfgvBqW7Dl_XW2Q7eWZ3jpg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                "time_in_seconds": 6724,
+                "time_text": "1:52:04",
+                "timestamp": 1588352537100972,
+                "timestamp_str": "2020-05-01 19:02:17",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6724012
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Shez Meva",
+                "author_id": "UC92JiWHnV23abKZEiD8FRdw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 6897,
+                "time_text": "1:54:57",
+                "timestamp": 1588352710171678,
+                "timestamp_str": "2020-05-01 19:05:10",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6897087
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Shez Meva",
+                "author_id": "UC92JiWHnV23abKZEiD8FRdw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Ce cocktail au piment oiseau est savoureux\ud83c\udf79 ",
+                "time_in_seconds": 6958,
+                "time_text": "1:55:58",
+                "timestamp": 1588352771448199,
+                "timestamp_str": "2020-05-01 19:06:11",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 6958382
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Lyncy",
+                "author_id": "UCpWxzfy2cBcKmbl4NiTfrEg",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 7119,
+                "time_text": "1:58:39",
+                "timestamp": 1588352933073899,
+                "timestamp_str": "2020-05-01 19:08:53",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7119993
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "Lyncy",
+                "author_id": "UCpWxzfy2cBcKmbl4NiTfrEg",
+                "body_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "ticker_duration": 120,
+                "time_in_seconds": 7119,
+                "time_text": "1:58:39",
+                "timestamp": 1588352933073899,
+                "timestamp_str": "2020-05-01 19:08:53",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7119993
+            },
+            {
+                "amount": "CHF\u00a02.00",
+                "amount_currency": "CHF",
+                "amount_euros": 1.8700327255726976,
+                "amount_value": 2.0,
+                "author": "Lordgrace",
+                "author_id": "UCa18TEjaogvnJzQleXE4SnA",
+                "body_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "message": null,
+                "time_in_seconds": 7137,
+                "time_text": "1:58:57",
+                "timestamp": 1588352950797752,
+                "timestamp_str": "2020-05-01 19:09:10",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7137734
+            },
+            {
+                "amount": "\u20ac1.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 1.99,
+                "amount_value": 1.99,
+                "author": "Manue Both",
+                "author_id": "UC27q3B4IQ8E28Yy2KdCZFHw",
+                "body_color": {
+                    "hex": "#1565c0ff",
+                    "rgba": [
+                        21,
+                        101,
+                        192,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 7284,
+                "time_text": "2:01:24",
+                "timestamp": 1588353097872858,
+                "timestamp_str": "2020-05-01 19:11:37",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7284811
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "melodie B",
+                "author_id": "UC-FcZCiaw1rOvg9RS6WCSlw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "merci d'exister",
+                "time_in_seconds": 7365,
+                "time_text": "2:02:45",
+                "timestamp": 1588353178321320,
+                "timestamp_str": "2020-05-01 19:12:58",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7365258
+            },
+            {
+                "author": "M_ Lion",
+                "author_id": "UCakNtsj4ywHn_Q2vIWI1oGg",
+                "badges": "Member (1 month)",
+                "message": "Welcome to \ud83c\udf5e\ud83d\udc60Le Vif d'Or!",
+                "time_in_seconds": 7446,
+                "time_text": "2:04:06",
+                "timestamp": 1588353259919115,
+                "timestamp_str": "2020-05-01 19:14:19",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7446835
+            },
+            {
+                "author": "M_ Lion",
+                "author_id": "UCakNtsj4ywHn_Q2vIWI1oGg",
+                "badges": "Member (1 month)",
+                "body_color": 4279213400,
+                "message": "Welcome to \ud83c\udf5e\ud83d\udc60Le Vif d'Or!",
+                "ticker_duration": 300,
+                "time_in_seconds": 7446,
+                "time_text": "2:04:06",
+                "timestamp": 1588353259919115,
+                "timestamp_str": "2020-05-01 19:14:19",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7446835
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "flo Ferra",
+                "author_id": "UCipZS7R5nY5DI7_XVN1RVrg",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "merci pour tout zola ",
+                "time_in_seconds": 7583,
+                "time_text": "2:06:23",
+                "timestamp": 1588353396985429,
+                "timestamp_str": "2020-05-01 19:16:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7583932
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "flo Ferra",
+                "author_id": "UCipZS7R5nY5DI7_XVN1RVrg",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "merci pour tout zola ",
+                "ticker_duration": 600,
+                "time_in_seconds": 7583,
+                "time_text": "2:06:23",
+                "timestamp": 1588353396985429,
+                "timestamp_str": "2020-05-01 19:16:36",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7583932
+            },
+            {
+                "amount": "CA$6.99",
+                "amount_currency": "CA$",
+                "amount_euros": 4.519591361696625,
+                "amount_value": 6.99,
+                "author": "Nella Yely",
+                "author_id": "UCeFBwQpY4cVlCokB3XEM1Zg",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "CAD",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci zozo d\u2019\u00eatre Toi.",
+                "time_in_seconds": 7790,
+                "time_text": "2:09:50",
+                "timestamp": 1588353603203374,
+                "timestamp_str": "2020-05-01 19:20:03",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7790127
+            },
+            {
+                "amount": "CA$6.99",
+                "amount_currency": "CA$",
+                "amount_euros": 4.519591361696625,
+                "amount_value": 6.99,
+                "author": "Nella Yely",
+                "author_id": "UCeFBwQpY4cVlCokB3XEM1Zg",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "CAD",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Merci zozo d\u2019\u00eatre Toi.",
+                "ticker_duration": 120,
+                "time_in_seconds": 7790,
+                "time_text": "2:09:50",
+                "timestamp": 1588353603203374,
+                "timestamp_str": "2020-05-01 19:20:03",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7790127
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Anna Siana",
+                "author_id": "UC5b1qqm2_xlgyId1Z5wUClw",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 7951,
+                "time_text": "2:12:31",
+                "timestamp": 1588353764334635,
+                "timestamp_str": "2020-05-01 19:22:44",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 7951250
+            },
+            {
+                "amount": "\u20ac15.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 15.0,
+                "amount_value": 15.0,
+                "author": "keri kate",
+                "author_id": "UCzeFT7HW0i0zrvO2jH_oO-g",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Wake up girls !! Avant je me reposais sur mes dipl\u00f4mes en mode rebelle. Cette France ne voulait pas me donner de travail \u00e0 ma hauteur. Depuis zola et mes packs, ma vie n'est plus la m\u00eame.",
+                "time_in_seconds": 9544,
+                "time_text": "2:39:04",
+                "timestamp": 1588355357975016,
+                "timestamp_str": "2020-05-01 19:49:17",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9544889
+            },
+            {
+                "amount": "\u20ac15.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 15.0,
+                "amount_value": 15.0,
+                "author": "keri kate",
+                "author_id": "UCzeFT7HW0i0zrvO2jH_oO-g",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "Wake up girls !! Avant je me reposais sur mes dipl\u00f4mes en mode rebelle. Cette France ne voulait pas me donner de travail \u00e0 ma hauteur. Depuis zola et mes packs, ma vie n'est plus la m\u00eame.",
+                "ticker_duration": 300,
+                "time_in_seconds": 9544,
+                "time_text": "2:39:04",
+                "timestamp": 1588355357975016,
+                "timestamp_str": "2020-05-01 19:49:17",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9544889
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "Martine N",
+                "author_id": "UCzAXUgyb0cQwMwGA3fiF4ZA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "R\u00e9veillons nous \ud83d\udc41",
+                "time_in_seconds": 9567,
+                "time_text": "2:39:27",
+                "timestamp": 1588355380436846,
+                "timestamp_str": "2020-05-01 19:49:40",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9567376
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "mass rimeri",
+                "author_id": "UC6xBzRs4LDWStZbwFq_7V9Q",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "Bonjour Chris !!",
+                "time_in_seconds": 9573,
+                "time_text": "2:39:33",
+                "timestamp": 1588355386936713,
+                "timestamp_str": "2020-05-01 19:49:46",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9573878
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "Brittanny",
+                "author_id": "UC0DMYmvhGg8b0eQuy8URTwQ",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 9581,
+                "time_text": "2:39:41",
+                "timestamp": 1588355394588032,
+                "timestamp_str": "2020-05-01 19:49:54",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9581537
+            },
+            {
+                "author": "didi",
+                "author_id": "UC2IAUt6tcLWuKE86awHMe8A",
+                "badges": "Member (2 months)",
+                "message": "Upgraded membership to \ud83c\udf36Le Piment!",
+                "time_in_seconds": 9611,
+                "time_text": "2:40:11",
+                "timestamp": 1588355424440475,
+                "timestamp_str": "2020-05-01 19:50:24",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9611351
+            },
+            {
+                "author": "didi",
+                "author_id": "UC2IAUt6tcLWuKE86awHMe8A",
+                "badges": "Member (2 months)",
+                "body_color": 4279213400,
+                "message": "Upgraded membership to \ud83c\udf36Le Piment!",
+                "ticker_duration": 300,
+                "time_in_seconds": 9611,
+                "time_text": "2:40:11",
+                "timestamp": 1588355424440475,
+                "timestamp_str": "2020-05-01 19:50:24",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9611351
+            },
+            {
+                "amount": "\u20ac1.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 1.0,
+                "amount_value": 1.0,
+                "author": "Mina",
+                "author_id": "UCfgtcL55se4BCHZ9K3am2Zg",
+                "body_color": {
+                    "hex": "#1e88e5ff",
+                    "rgba": [
+                        30,
+                        136,
+                        229,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#1565c0ff",
+                    "rgba": [
+                        21,
+                        101,
+                        192,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 9630,
+                "time_text": "2:40:30",
+                "timestamp": 1588355443689149,
+                "timestamp_str": "2020-05-01 19:50:43",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9630613
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "H B",
+                "author_id": "UCaI4KZHOhV6fpzQ3VnEKQHA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 9641,
+                "time_text": "2:40:41",
+                "timestamp": 1588355454439894,
+                "timestamp_str": "2020-05-01 19:50:54",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9641334
+            },
+            {
+                "amount": "\u20ac2.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.0,
+                "amount_value": 2.0,
+                "author": "A. Walet.A",
+                "author_id": "UCJMQuy_uZsGJKwl895_wrQg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "\ud83c\udf36\ud83c\udf5e",
+                "time_in_seconds": 9694,
+                "time_text": "2:41:34",
+                "timestamp": 1588355507261769,
+                "timestamp_str": "2020-05-01 19:51:47",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9694181
+            },
+            {
+                "amount": "\u20ac2.29",
+                "amount_currency": "\u20ac",
+                "amount_euros": 2.29,
+                "amount_value": 2.29,
+                "author": "LalaLa Land",
+                "author_id": "UCQCt8tO-2s3XNm6hDXmZ3cg",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "J\u2019attends ton \u00e9cole Zola pour mes enfants",
+                "time_in_seconds": 9804,
+                "time_text": "2:43:24",
+                "timestamp": 1588355617574075,
+                "timestamp_str": "2020-05-01 19:53:37",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 9804477
+            },
+            {
+                "amount": "\u20ac0.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 0.99,
+                "amount_value": 0.99,
+                "author": "didi",
+                "author_id": "UC2IAUt6tcLWuKE86awHMe8A",
+                "body_color": {
+                    "hex": "#1565c0ff",
+                    "rgba": [
+                        21,
+                        101,
+                        192,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "message": null,
+                "time_in_seconds": 10051,
+                "time_text": "2:47:31",
+                "timestamp": 1588355864134041,
+                "timestamp_str": "2020-05-01 19:57:44",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10051031
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Tatiana Badj",
+                "author_id": "UCKEZkODCyhCU8M4lJr1d3sQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "time_in_seconds": 10092,
+                "time_text": "2:48:12",
+                "timestamp": 1588355906022837,
+                "timestamp_str": "2020-05-01 19:58:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10092934
+            },
+            {
+                "amount": "\u20ac10.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 10.0,
+                "amount_value": 10.0,
+                "author": "Tatiana Badj",
+                "author_id": "UCKEZkODCyhCU8M4lJr1d3sQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": null,
+                "ticker_duration": 300,
+                "time_in_seconds": 10092,
+                "time_text": "2:48:12",
+                "timestamp": 1588355906022837,
+                "timestamp_str": "2020-05-01 19:58:26",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10092934
+            },
+            {
+                "amount": "\u20ac21.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 21.99,
+                "amount_value": 21.99,
+                "author": "Oumy Ba",
+                "author_id": "UCQGeRM4wg5NemMGLpRExudA",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "On veut le piment \ud83c\udf36",
+                "time_in_seconds": 10122,
+                "time_text": "2:48:42",
+                "timestamp": 1588355935476156,
+                "timestamp_str": "2020-05-01 19:58:55",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10122369
+            },
+            {
+                "amount": "\u20ac21.99",
+                "amount_currency": "\u20ac",
+                "amount_euros": 21.99,
+                "amount_value": 21.99,
+                "author": "Oumy Ba",
+                "author_id": "UCQGeRM4wg5NemMGLpRExudA",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "On veut le piment \ud83c\udf36",
+                "ticker_duration": 600,
+                "time_in_seconds": 10122,
+                "time_text": "2:48:42",
+                "timestamp": 1588355935476156,
+                "timestamp_str": "2020-05-01 19:58:55",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10122369
+            },
+            {
+                "amount": "CHF\u00a010.00",
+                "amount_currency": "CHF",
+                "amount_euros": 9.350163627863488,
+                "amount_value": 10.0,
+                "author": "Lauren Lauren",
+                "author_id": "UCPb6nz_hyouqyNTXysiCXJQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "\ud83c\udf7d\u2615\ufe0f",
+                "time_in_seconds": 10166,
+                "time_text": "2:49:26",
+                "timestamp": 1588355979261461,
+                "timestamp_str": "2020-05-01 19:59:39",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10166140
+            },
+            {
+                "amount": "CHF\u00a010.00",
+                "amount_currency": "CHF",
+                "amount_euros": 9.350163627863488,
+                "amount_value": 10.0,
+                "author": "Lauren Lauren",
+                "author_id": "UCPb6nz_hyouqyNTXysiCXJQ",
+                "body_color": {
+                    "hex": "#ffca28ff",
+                    "rgba": [
+                        255,
+                        202,
+                        40,
+                        255
+                    ]
+                },
+                "currency_code": "CHF",
+                "header_color": {
+                    "hex": "#ffb300ff",
+                    "rgba": [
+                        255,
+                        179,
+                        0,
+                        255
+                    ]
+                },
+                "message": "\ud83c\udf7d\u2615\ufe0f",
+                "ticker_duration": 300,
+                "time_in_seconds": 10166,
+                "time_text": "2:49:26",
+                "timestamp": 1588355979261461,
+                "timestamp_str": "2020-05-01 19:59:39",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10166140
+            },
+            {
+                "amount": "\u20ac3.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 3.0,
+                "amount_value": 3.0,
+                "author": "kunstfeld \u2013 magazine artistique franco-allemand",
+                "author_id": "UClRb6uSXl9hSwyOFydGnfLA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "merci Chris&Zola. J'en apprends bcp (de Berlin) ",
+                "time_in_seconds": 10661,
+                "time_text": "2:57:41",
+                "timestamp": 1588356474955076,
+                "timestamp_str": "2020-05-01 20:07:54",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 10661880
+            },
+            {
+                "amount": "\u20ac4.49",
+                "amount_currency": "\u20ac",
+                "amount_euros": 4.49,
+                "amount_value": 4.49,
+                "author": "Fatim Fama",
+                "author_id": "UCebCTox9MpYBIdQtkvKDqMA",
+                "body_color": {
+                    "hex": "#00e5ffff",
+                    "rgba": [
+                        0,
+                        229,
+                        255,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00b8d4ff",
+                    "rgba": [
+                        0,
+                        184,
+                        212,
+                        255
+                    ]
+                },
+                "message": "ON VEUT LES DOns",
+                "time_in_seconds": 14686,
+                "time_text": "4:04:46",
+                "timestamp": 1588360499789345,
+                "timestamp_str": "2020-05-01 21:14:59",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 14686664
+            },
+            {
+                "author": "Racky TV",
+                "author_id": "UC1i6yk17JixMKr9RMrtr24Q",
+                "badges": "New member",
+                "message": "Welcome to Brokezi & Pickme Blinders!",
+                "time_in_seconds": 21008,
+                "time_text": "5:50:08",
+                "timestamp": 1588366821761882,
+                "timestamp_str": "2020-05-01 23:00:21",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 21008637
+            },
+            {
+                "author": "Racky TV",
+                "author_id": "UC1i6yk17JixMKr9RMrtr24Q",
+                "badges": "New member",
+                "body_color": 4279213400,
+                "message": "Welcome to Brokezi & Pickme Blinders!",
+                "ticker_duration": 300,
+                "time_in_seconds": 21008,
+                "time_text": "5:50:08",
+                "timestamp": 1588366821761882,
+                "timestamp_str": "2020-05-01 23:00:21",
+                "url": "https://www.youtube.com/watch?v=09ZK5XgsynM",
+                "video_offset_time_msec": 21008637
+            }
+        ],
+        "resume": {
+            "biggest_donation": 21.99,
+            "biggest_donator": "Amande",
+            "donations_n": 85,
+            "donations_total": 537.2591517914051,
+            "duration_seconds": 20957,
+            "duration_str": "5:49:17",
+            "end_str": "2020-05-01 23:00:21",
+            "end_unix": 1588366821,
+            "number_of_unknown_donations": 0,
+            "start_str": "2020-05-01 17:11:04",
+            "start_unix": 1588345864,
+            "unknown_youtube_currencies": []
+        },
+        "url": "https://www.youtube.com/watch?v=09ZK5XgsynM"
+    },
+    "https://www.youtube.com/watch?v=0BiYoBSBKyA": {
+        "errors": 0,
+        "messages": [
+            {
+                "author": "bettylaos3389",
+                "author_id": "UCT5oMQM0sc63X8u_9eR99NQ",
+                "badges": "New member",
+                "message": "Upgraded membership to \ud83c\udf36\ud83c\udf5ePiment & Brioche!",
+                "time_in_seconds": 1071,
+                "time_text": "17:51",
+                "timestamp": 1580324679249491,
+                "timestamp_str": "2020-01-29 20:04:39",
+                "url": "https://www.youtube.com/watch?v=0BiYoBSBKyA",
+                "video_offset_time_msec": 1071861
+            },
+            {
+                "author": "bettylaos3389",
+                "author_id": "UCT5oMQM0sc63X8u_9eR99NQ",
+                "badges": "New member",
+                "body_color": 4279213400,
+                "message": "Upgraded membership to \ud83c\udf36\ud83c\udf5ePiment & Brioche!",
+                "ticker_duration": 300,
+                "time_in_seconds": 1071,
+                "time_text": "17:51",
+                "timestamp": 1580324679249491,
+                "timestamp_str": "2020-01-29 20:04:39",
+                "url": "https://www.youtube.com/watch?v=0BiYoBSBKyA",
+                "video_offset_time_msec": 1071861
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "elianeasiam",
+                "author_id": "UC-h4hgt2xTHtdpwzeqO9jow",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Just because , merci d'etre toi Zola\u2764 ",
+                "time_in_seconds": 2936,
+                "time_text": "48:56",
+                "timestamp": 1580326544355135,
+                "timestamp_str": "2020-01-29 20:35:44",
+                "url": "https://www.youtube.com/watch?v=0BiYoBSBKyA",
+                "video_offset_time_msec": 2936922
+            },
+            {
+                "amount": "\u20ac5.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 5.0,
+                "amount_value": 5.0,
+                "author": "elianeasiam",
+                "author_id": "UC-h4hgt2xTHtdpwzeqO9jow",
+                "body_color": {
+                    "hex": "#1de9b6ff",
+                    "rgba": [
+                        29,
+                        233,
+                        182,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#00bfa5ff",
+                    "rgba": [
+                        0,
+                        191,
+                        165,
+                        255
+                    ]
+                },
+                "message": "Just because , merci d'etre toi Zola\u2764 ",
+                "ticker_duration": 120,
+                "time_in_seconds": 2936,
+                "time_text": "48:56",
+                "timestamp": 1580326544355135,
+                "timestamp_str": "2020-01-29 20:35:44",
+                "url": "https://www.youtube.com/watch?v=0BiYoBSBKyA",
+                "video_offset_time_msec": 2936922
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 20.0,
+                "amount_value": 20.0,
+                "author": "Bee Me",
+                "author_id": "UClr0UBLRLZUylZwy7UCkB6g",
+                "body_color": {
+                    "hex": "#f57c00ff",
+                    "rgba": [
+                        245,
+                        124,
+                        0,
+                        255
+                    ]
+                },
+                "currency_code": "EUR",
+                "header_color": {
+                    "hex": "#e65100ff",
+                    "rgba": [
+                        230,
+                        81,
+                        0,
+                        255
+                    ]
+                },
+                "message": "J'adore ta fa\u00e7on de balancer les v\u00e9rit\u00e9s. Heureusement qu'il y a gens comme toi.",
+                "time_in_seconds": 3506,
+                "time_text": "58:26",
+                "timestamp": 1580327114033883,
+                "timestamp_str": "2020-01-29 20:45:14",
+                "url": "https://www.youtube.com/watch?v=0BiYoBSBKyA",
+                "video_offset_time_msec": 3506652
+            },
+            {
+                "amount": "\u20ac20.00",
+                "amount_currency": "\u20ac",
+                "amount_euros": 

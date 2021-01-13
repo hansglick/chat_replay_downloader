@@ -1,151 +1,142 @@
-# Chat Replay Downloader
-A simple tool used to retrieve YouTube/Twitch chat from past broadcasts/VODs. No authentication needed!
+# Overview
 
-### Requirements:
-* This tool was created in a Python 3 environment.
-* Run `pip install -r requirements.txt` to ensure you have the necessary dependencies.
+Repository d'une application permettant de récupérer les dons d'une chaîne YouTube sous la forme d'une liste de JSONs. Cette application s'appuie essentiellement sur les applications suivantes :
+ * [chat-replay-downloader](https://github.com/xenova/chat-replay-downloader) de Xenova
+ * [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+ * [Currency Converter](https://pypi.org/project/CurrencyConverter/)
 
-### Command line:
-#### Usage
+
+<img src="img/chatmoney.PNG" width="579">
+
+
+# Environnement Python
+
+L'application tourne sur un environnement python. Les commandes suivantes vous permette de créer l'environnement `music`:
+
 ```
-usage: chat_replay_downloader.py [-h] [-start_time START_TIME]
-                                 [-end_time END_TIME]
-                                 [-message_type {messages,superchat,all}]
-                                 [-chat_type {live,top}] [-output OUTPUT]
-                                 [-cookies COOKIES] [--hide_output]
-                                 url
+git clone https://github.com/hansglick/chat.git
 
-A simple tool used to retrieve YouTube/Twitch chat from past broadcasts/VODs. No authentication needed!
-
-positional arguments:
-  url                   YouTube/Twitch video URL
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -start_time START_TIME, -from START_TIME
-                        start time in seconds or hh:mm:ss
-                        (default: 0)
-  -end_time END_TIME, -to END_TIME
-                        end time in seconds or hh:mm:ss
-                        (default: None = until the end)
-  -message_type {messages,superchat,all}
-                        types of messages to include [YouTube only]
-                        (default: messages)
-  -chat_type {live,top}
-                        which chat to get messages from [YouTube only]
-                        (default: live)
-  -output OUTPUT, -o OUTPUT
-                        name of output file
-                        (default: None = print to standard output)
-  -cookies COOKIES, -c COOKIES
-                        name of cookies file
-                        (default: None)
-  --hide_output         whether to hide output or not
-                        (default: False)
-```
-
-#### Examples
-##### 1. Output file of all chat messages, given a url
-```
-python chat_replay_downloader.py <video_url> -output <file_name>
+conda env create -f environment.yml
+conda activate music
 ```
 
 
-If the file name ends in `.json`, the array will be written to the file in JSON format. Similarly, if the file name ends in `.csv`, the data will be written in CSV format. <br> Otherwise, the chat messages will be outputted to the file in the following format:<br>
-`[<time>] <author>: <message>`
+# **L'application Grab Donations**
 
-##### 2. Output file of chat messages, starting at a certain time (in seconds or hh:mm:ss) until the end
-```
-python chat_replay_downloader.py <video_url> -start_time <time> -output <file_name>
-```
 
-##### 3. Output file of chat messages, starting from the beginning and ending at a certain time (in seconds or hh:mm:ss)
-```
-python chat_replay_downloader.py <video_url> -end_time <time> -output <file_name>
-```
+### **Utilisation**
 
-##### 4. Output file of chat messages, starting and ending at certain times (in seconds or hh:mm:ss)
+Il s'agit de l'application principale du repository. Les commandes suivante permettent de récupérer dans le fichier `donations.json` l'ensemble des dons engrangés par la chaîne YouTube [Joey Ingram](https://www.youtube.com/user/joeingram1)
+
 ```
-python chat_replay_downloader.py <video_url> -start_time <time> -end_time <time> -output <file_name>
+conda activate music
+(music) bash grab_channel_donations.sh https://www.youtube.com/user/joeingram1 data/donations.json
 ```
 
-#### Example outputs
-[JSON Example](examples/example.json):
-```
-python chat_replay_downloader.py https://www.youtube.com/watch?v=pMsvr55cTZ0 -start_time 14400 -end_time 15000 -output example.json
-```
+***
 
-[CSV Example](examples/example.csv):
-```
-python chat_replay_downloader.py https://www.youtube.com/watch?v=pMsvr55cTZ0 -start_time 14400 -end_time 15000 -output example.csv
-```
+### **Structure des données récupérées**
 
-[Text Example](examples/example.txt):
-```
-python chat_replay_downloader.py https://www.youtube.com/watch?v=pMsvr55cTZ0 -start_time 14400 -end_time 15000 -output example.txt
-```
-
-You can find more examples [here](EXAMPLES.md). The output for each can be found in the [examples](examples) folder.
-
-### Python module
-
-#### Importing the module
+Le fichier de sortie est un json qui contient autant d'éléménts qu'il existe de vidéos.
 
 ```python
-import chat_replay_downloader
-```
-or
+
+# Importation du JSON
+with open(filename) as json_file: 
+    donations = json.load("data/donations.json")
+
+# Affiche les urls des videos de la channel
+keys_list = list(donations.keys())
+print(keys_list)
+
+# Affiche un résumé des donnations de la video
+donations[keys_list[0]]["resume"]
+
+# Affiche les super chat events de la premiere video
+donations[keys_list[0]]["messages"]
+
+# Affiche les erreurs de conversions des donations pour la premiere video
+donations[keys_list[0]]["errors"]
+
+``` 
+ * Structure d'une entrée *resume* :
+
+ <img src="img/dons_resume.PNG" width="428">
+
+ * Structure d'un item de l'entrée *messages* :
+
+<img src="img/dons_message.PNG" width="474">
+
+
+***
+
+### **Les monnaies**
+
+
+#### Préalable
+
+Les dons récoltés sont convertis en euros par l'application [Currency Converter](https://pypi.org/project/CurrencyConverter/). Cependant, deux problèmes peuvent survenir : 
+
+ 1. Il existe une table des correspondances [currency table](...) qui fait le lien entre le symbole de la monnaie récupérée sur YouTube et le symbole de la monnaie selon la norme [ISO 4217](https://fr.wikipedia.org/wiki/ISO_4217). Afin d'être sûr que les monnaies soient convertis en euros il faut s'assurer que symbole YouTube et son symbole ISO soient présentes dans la table [currency table](...)
+
+ 2. Certaines monnaies ne sont pas prises en compte par le package [Currency Converter](https://pypi.org/project/CurrencyConverter/)
+
+
+#### Remarques
+
+ * Les dons exprimés dans une monnaie non présente dans la table [currency table](...) **ou bien** non prise en compte par l'application [Currency Converter](https://pypi.org/project/CurrencyConverter/) sont convertis en **0€**.
+
+ * Afin de relever les erreurs de conversions éventuelles lors d'un run de l'application. Il suffit de retrouver les messages dont l'entrée `amount_euros` est égal à zéro.
+```python
+
+# Importation du JSON
+with open(filename) as json_file: 
+    donations = json.load("data/donations.json")
+
+# Retrouver les dons n'ayant pas pu être convertis
+for k,v in donations.items():
+	for msg in v["messages"]:
+		if msg["amount_euros"] == 0:
+			print(item)
+
+``` 
+
+ * Afin de relever les monnaies dont le symbole ISO 4217 est inconnu, on peut regarder les entrées `unknown_youtube_currencies` et `number_of_unknown_donations` dans l'objet `resume` du fichier de sortie. Ils représentent les monnaies dont l'ISO 4217 **doivent** être renseignées dans [currency table](...) et le nombre de dons qui n'ont pas pu être convertis (respectivement) :
+ ```python
+
+# Les monnaies dont le format ISO 4217 n'est pas renseignée dans la currency table et qui provoqueront des conversions à 0 €
+donations[keys_list[4]]["resume"]["unknown_youtube_currencies"]
+
+``` 
+
+ * Les dons sont convertis automatiquement en euros (lorsque les conditions sont remplies). Ils se trouvent dans l'entrée `amount_euros` dans les items contenus dans l'entrée `messages`:
 
 ```python
-from chat_replay_downloader import *
+
+# Sort le premier don (en euros) de la video n°21 
+donations[keys_list[21]["messages"][0]["amount_euros"]]
+
+``` 
+
+
+# **Applications intermédiaires**
+
+### **Application Grab Channel**
+
+Sous-application de **Grab Donations**. Les commandes suivantes permettent de récupérer des informations sur l'ensemble des vidéos de la chaîne [Joey Ingram](https://www.youtube.com/user/joeingram1). Les résultats sont stockées dans le fichier `joey_ingram_channel.txt`
+
 ```
-The following examples will use the second form of importing.
-
-#### Examples
-##### 1. Return list of all chat messages, given a video url:
-```python
-youtube_messages = get_chat_replay('https://www.youtube.com/watch?v=xxxxxxxxxxx')
-twitch_messages = get_chat_replay('https://www.twitch.tv/videos/xxxxxxxxx')
-```
-
-##### 2. Return list of all chat messages, given a video id
-```python
-youtube_messages = get_youtube_messages('xxxxxxxxxxx')
-twitch_messages = get_twitch_messages('xxxxxxxxx')
-```
-<br/>
-
-The following examples use parameters which all three methods (`get_chat_replay`, `get_youtube_messages`, `get_twitch_messages`) have. Both of the following parameters are optional:
-* `start_time`: start time in seconds or hh:mm:ss (Default is 0, which is the start of the video)
-* `end_time`: end time in seconds or hh:mm:ss (Default is None, which means it will continue until the video ends)
-
-##### 3. Return list of chat messages, starting at a certain time (in seconds or hh:mm:ss)
-```python
-messages = get_chat_replay('video_url', start_time = 60) # Start at 60 seconds and continue until the end
+conda activate music
+(music) bash app_grab_channel.sh https://www.youtube.com/user/joeingram1 data/joey_ingram_channel.txt
 ```
 
-##### 4. Return list of chat messages, ending at a certain time (in seconds or hh:mm:ss)
-```python
-messages = get_chat_replay('video_url', end_time = 60) # Start at 0 seconds (beginning) and end at 60 seconds
+***
+
+### **Application Grab Money**
+
+Sous-application de **Grab Donations**. Les commandes suivantes permettent de récupérer les dons récoltés lors des lives des vidéos YouTube dont les URLs sont stockées dans le fichier `urls.txt`. Les résultats sont contenus dans le fichier `donations.json`
+
 ```
-
-##### 5. Return list of chat messages, starting and ending at certain times (in seconds or hh:mm:ss)
-```python
-messages = get_chat_replay('video_url', start_time = 60, end_time = 120) # Start at 60 seconds and end at 120 seconds
-```
-
-##### 6. Create a single chat_replay_downloader session and retrieve multiple chat replays.
-```python
-session = ChatReplayDownloader()
-
-messages = session.get_chat_replay('video_url')
-youtube_messages = session.get_youtube_messages('youtube_video_id')
-twitch_messages = session.get_twitch_messages('twitch_vod_id')
-```
-
-This technique is also used for more advanced features such as passing cookies to the session:
-```python
-session = ChatReplayDownloader(cookies='path/to/cookies.txt')
-
-messages = session.get_chat_replay('video_url')
+conda activate music
+(music) python app_money.py -u urls.txt -s donations.json
 ```
