@@ -1,9 +1,9 @@
 # Overview
 
-Repository d'une application permettant de récupérer les dons d'une chaîne YouTube sous la forme d'une liste de JSONs. Cette application s'appuie essentiellement sur les applications suivantes :
+Repository d'une application permettant de récupérer les dons d'une chaîne YouTube sous la forme d'une liste de JSONs. Cette application s'appuie essentiellement sur les packages suivants :
  * [chat-replay-downloader](https://github.com/xenova/chat-replay-downloader) de Xenova
  * [youtube-dl](https://github.com/ytdl-org/youtube-dl)
- * [Currency Converter](https://pypi.org/project/CurrencyConverter/)
+ * [Currency Converter](https://pypi.org/project/CurrencyConverter/) d'Alex Prengère
 
 
 <img src="img/chatmoney.PNG" width="579">
