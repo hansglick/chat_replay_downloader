@@ -59,13 +59,9 @@ donations[keys_list[0]]["messages"]
 donations[keys_list[0]]["errors"]
 
 ``` 
- * Structure d'une entrée *resume* :
+ * Structure d'une entrée [resume](https://github.com/hansglick/chat_replay_downloader/blob/master/img/dons_resume.PNG)
+ * Structure d'un item de l'entrée [message](https://github.com/hansglick/chat_replay_downloader/blob/master/img/dons_message.PNG)
 
- <img src="img/dons_resume.PNG" width="428">
-
- * Structure d'un item de l'entrée *messages* :
-
-<img src="img/dons_message.PNG" width="474">
 
 
 ***
@@ -87,6 +83,13 @@ Les dons récoltés sont convertis en euros par l'application [Currency Converte
  * Les dons exprimés dans une monnaie non présente dans la table [currency table](...) **ou bien** non prise en compte par l'application [Currency Converter](https://pypi.org/project/CurrencyConverter/) sont convertis en **0€**.
 
  * Afin de relever les erreurs de conversions éventuelles lors d'un run de l'application. Il suffit de retrouver les messages dont l'entrée `amount_euros` est égal à zéro.
+
+ * Afin de relever les monnaies dont le symbole ISO 4217 est inconnu, on peut regarder les entrées `unknown_youtube_currencies` et `number_of_unknown_donations` dans l'objet `resume` du fichier de sortie. Ils représentent les monnaies dont l'ISO 4217 **doivent** être renseignées dans [currency table](...) et le nombre de dons qui n'ont pas pu être convertis (respectivement) :
+
+ * Les dons sont convertis automatiquement en euros (lorsque les conditions sont remplies). Ils se trouvent dans l'entrée `amount_euros` dans les items contenus dans l'entrée `messages`:
+
+
+
 ```python
 
 # Importation du JSON
@@ -99,25 +102,13 @@ for k,v in donations.items():
 		if msg["amount_euros"] == 0:
 			print(item)
 
-``` 
-
- * Afin de relever les monnaies dont le symbole ISO 4217 est inconnu, on peut regarder les entrées `unknown_youtube_currencies` et `number_of_unknown_donations` dans l'objet `resume` du fichier de sortie. Ils représentent les monnaies dont l'ISO 4217 **doivent** être renseignées dans [currency table](...) et le nombre de dons qui n'ont pas pu être convertis (respectivement) :
- ```python
-
 # Les monnaies dont le format ISO 4217 n'est pas renseignée dans la currency table et qui provoqueront des conversions à 0 €
 donations[keys_list[4]]["resume"]["unknown_youtube_currencies"]
-
-``` 
-
- * Les dons sont convertis automatiquement en euros (lorsque les conditions sont remplies). Ils se trouvent dans l'entrée `amount_euros` dans les items contenus dans l'entrée `messages`:
-
-```python
 
 # Sort le premier don (en euros) de la video n°21 
 donations[keys_list[21]["messages"][0]["amount_euros"]]
 
 ``` 
-
 
 # **Applications intermédiaires**
 
